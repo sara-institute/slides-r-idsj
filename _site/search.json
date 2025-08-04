@@ -1,0 +1,1171 @@
+[
+  {
+    "objectID": "rstudio.html#section-1",
+    "href": "rstudio.html#section-1",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "",
+    "text": "“RStudio is an integrated development environment (IDE) for R and Python from company posit.”"
+  },
+  {
+    "objectID": "rstudio.html#r-and-rstudio",
+    "href": "rstudio.html#r-and-rstudio",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "R and RStudio",
+    "text": "R and RStudio\n\n\n\nImagine R as a powerful engine\n\n\n\nand RStudio as a stylish car"
+  },
+  {
+    "objectID": "rstudio.html#section-2",
+    "href": "rstudio.html#section-2",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "",
+    "text": "“It includes a console, syntax-highlighting editor that supports direct code execution, and tools for plotting, history, debugging, and workspace management.”\nDownload RStudio.\n\n\n\nSource: https://posit.co/products/open-source/rstudio/"
+  },
+  {
+    "objectID": "rstudio.html#rstudio-ide",
+    "href": "rstudio.html#rstudio-ide",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "RStudio IDE",
+    "text": "RStudio IDE"
+  },
+  {
+    "objectID": "rstudio.html#rstudio-rightarrow-tools-rightarrow-global-options",
+    "href": "rstudio.html#rstudio-rightarrow-tools-rightarrow-global-options",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "RStudio \\(\\rightarrow\\) Tools \\(\\rightarrow\\) Global Options",
+    "text": "RStudio \\(\\rightarrow\\) Tools \\(\\rightarrow\\) Global Options"
+  },
+  {
+    "objectID": "rstudio.html#rstudio-rightarrow-tools-rightarrow-global-options-1",
+    "href": "rstudio.html#rstudio-rightarrow-tools-rightarrow-global-options-1",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "RStudio \\(\\rightarrow\\) Tools \\(\\rightarrow\\) Global Options",
+    "text": "RStudio \\(\\rightarrow\\) Tools \\(\\rightarrow\\) Global Options"
+  },
+  {
+    "objectID": "rstudio.html#open-rstudio",
+    "href": "rstudio.html#open-rstudio",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "Open RStudio",
+    "text": "Open RStudio"
+  },
+  {
+    "objectID": "rstudio.html#rstudio-without-project",
+    "href": "rstudio.html#rstudio-without-project",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "RStudio Without Project",
+    "text": "RStudio Without Project"
+  },
+  {
+    "objectID": "rstudio.html#rstudio-without-project-1",
+    "href": "rstudio.html#rstudio-without-project-1",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "RStudio Without Project",
+    "text": "RStudio Without Project"
+  },
+  {
+    "objectID": "rstudio.html#rstudio-project-helps",
+    "href": "rstudio.html#rstudio-project-helps",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "RStudio Project Helps:",
+    "text": "RStudio Project Helps:\n\n\n\n“to divide your work into multiple contexts, each with their own”\n\nworking directory,\nworkspace,\nhistory, and\nsource documents.”\n\n\n\n\n\nSource: RStudio & artwork by Allison Horst"
+  },
+  {
+    "objectID": "rstudio.html#create-rstudio-project",
+    "href": "rstudio.html#create-rstudio-project",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "Create RStudio project",
+    "text": "Create RStudio project"
+  },
+  {
+    "objectID": "rstudio.html#create-rstudio-project-1",
+    "href": "rstudio.html#create-rstudio-project-1",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "Create RStudio project",
+    "text": "Create RStudio project"
+  },
+  {
+    "objectID": "rstudio.html#in-case-anything-goes-wrong...",
+    "href": "rstudio.html#in-case-anything-goes-wrong...",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "In case anything goes wrong\\(...\\)",
+    "text": "In case anything goes wrong\\(...\\)"
+  },
+  {
+    "objectID": "rstudio.html#create-rstudio-project-2",
+    "href": "rstudio.html#create-rstudio-project-2",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "Create RStudio Project",
+    "text": "Create RStudio Project"
+  },
+  {
+    "objectID": "rstudio.html#create-rstudio-project-3",
+    "href": "rstudio.html#create-rstudio-project-3",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "Create RStudio project",
+    "text": "Create RStudio project"
+  },
+  {
+    "objectID": "rstudio.html#create-rstudio-project-4",
+    "href": "rstudio.html#create-rstudio-project-4",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "Create RStudio project",
+    "text": "Create RStudio project"
+  },
+  {
+    "objectID": "rstudio.html#create-rstudio-project-5",
+    "href": "rstudio.html#create-rstudio-project-5",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "Create RStudio project",
+    "text": "Create RStudio project"
+  },
+  {
+    "objectID": "rstudio.html#create-rstudio-project-6",
+    "href": "rstudio.html#create-rstudio-project-6",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "Create RStudio project",
+    "text": "Create RStudio project"
+  },
+  {
+    "objectID": "rstudio.html#rstudio-project-name",
+    "href": "rstudio.html#rstudio-project-name",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "RStudio project “name”",
+    "text": "RStudio project “name”"
+  },
+  {
+    "objectID": "rstudio.html#rstudio-project-path",
+    "href": "rstudio.html#rstudio-project-path",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "RStudio project “path”",
+    "text": "RStudio project “path”"
+  },
+  {
+    "objectID": "rstudio.html#rstudio-project",
+    "href": "rstudio.html#rstudio-project",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "RStudio project",
+    "text": "RStudio project"
+  },
+  {
+    "objectID": "rstudio.html#write-codes-in-rstudio-console",
+    "href": "rstudio.html#write-codes-in-rstudio-console",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "Write codes in RStudio console",
+    "text": "Write codes in RStudio console"
+  },
+  {
+    "objectID": "rstudio.html#write-codes-in-r-script",
+    "href": "rstudio.html#write-codes-in-r-script",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "Write codes in R script",
+    "text": "Write codes in R script"
+  },
+  {
+    "objectID": "rstudio.html#r-script-.r",
+    "href": "rstudio.html#r-script-.r",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "R script .R",
+    "text": "R script .R\n\nWrite codes in the R script \\(\\rightarrow\\) Console will show the results.\n\n\nBenefits of writing codes in R script:\n\nYou can save it for later use and revision.\nYou can share with others.\nA better track of codes."
+  },
+  {
+    "objectID": "rstudio.html#tips-for-r-script",
+    "href": "rstudio.html#tips-for-r-script",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "💡 Tips for R script:",
+    "text": "💡 Tips for R script:\n\nWriting readable code because other people might need to use your code.\nWriting readable code because you might need to use your code, a few weeks/months/years after you’ve written it.\nPut spaces between and around variable names and operators (=+-*/).\nBreak up long lines of code.\nKeeping a consistent style.\n\n\n\nSource: Marius Mather also Tomaž Kaštrun"
+  },
+  {
+    "objectID": "rstudio.html#r-object",
+    "href": "rstudio.html#r-object",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "R Object",
+    "text": "R Object\n\nIn R, everything you create or work with is stored as an object.\nObjects can be numbers, text, data tables, functions, or even plots.\nThink of an object as a named container that stores information in your R environment."
+  },
+  {
+    "objectID": "rstudio.html#create-object",
+    "href": "rstudio.html#create-object",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "Create Object",
+    "text": "Create Object\n\nCodeOutput\n\n\n\nage &lt;- c(23, 25, 16, 40, 34)\n\nage\n\n\n\n[1] 23 25 16 40 34"
+  },
+  {
+    "objectID": "rstudio.html#assignment-operator",
+    "href": "rstudio.html#assignment-operator",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "Assignment Operator",
+    "text": "Assignment Operator\n\n\n\n\n\n\n\nImportant\n\n\nR assignment operators: Assignment operators are used to assign values to variables.\nobject_name &lt;- c(2, 3, 4, 5)\nobject_name"
+  },
+  {
+    "objectID": "rstudio.html#create-object-1",
+    "href": "rstudio.html#create-object-1",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "Create object",
+    "text": "Create object\n\nCodeOutput\n\n\n\nincome &lt;- c(23000, 25000, 16000, 4000, 34000)\n\nincome\n\n\n\n[1] 23000 25000 16000 4000 34000"
+  },
+  {
+    "objectID": "rstudio.html#create-object-2",
+    "href": "rstudio.html#create-object-2",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "Create object",
+    "text": "Create object\n\nCodeOutput\n\n\n\nname &lt;- c(\"Bhim\", \"Rama\", \"Sara\", \"Phule\", \"Savitri\")\n\nname\n\n\n\n[1] “Bhim” “Rama” “Sara” “Phule” “Savitri”"
+  },
+  {
+    "objectID": "rstudio.html#create-object-3",
+    "href": "rstudio.html#create-object-3",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "Create object",
+    "text": "Create object\n\nCodeOutput\n\n\n\nplace &lt;- c(\"MH\", \"RJ\", \"DL\", \"HR\", \"HR\")\n\nplace\n\n\n\n[1] “MH” “RJ” “DL” “HR” “HR”"
+  },
+  {
+    "objectID": "rstudio.html#create-object-4",
+    "href": "rstudio.html#create-object-4",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "Create object",
+    "text": "Create object\n\nCodeOutput\n\n\n\nweight_kg &lt;- c(50, 52, 61, 40, 70)\n\nweight_kg\n\n\n\n[1] 50 52 61 40 70"
+  },
+  {
+    "objectID": "rstudio.html#rstudio-environment-window",
+    "href": "rstudio.html#rstudio-environment-window",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "RStudio Environment Window",
+    "text": "RStudio Environment Window"
+  },
+  {
+    "objectID": "rstudio.html#guidelines-to-name-r-objects",
+    "href": "rstudio.html#guidelines-to-name-r-objects",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "💡Guidelines to “name” R Objects:",
+    "text": "💡Guidelines to “name” R Objects:\n\nA name cannot start with a number.\nA name cannot use some special symbols, like ^, !, $, @, +, -, /, or *,:.\nAvoid caps.\nAvoid space.\nUse dash (like weight-kg) or underscore (like weight_kg).\nIf chronology matters then add date (2020-09-05-file-name)."
+  },
+  {
+    "objectID": "rstudio.html#basic-object-types",
+    "href": "rstudio.html#basic-object-types",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "Basic Object Types",
+    "text": "Basic Object Types\n\n\n\n\nType\nDescription\nExample\n\n\n\n\nnumeric\nNumbers (floating point)\n3.14, 2, -5\n\n\ninteger\nWhole numbers\n2L, 100L\n\n\ncharacter\nText strings\n\"R is great\"\n\n\nlogical\nBoolean values\nTRUE, FALSE"
+  },
+  {
+    "objectID": "rstudio.html#how-to-combine-all-these-objects-and-form-a-data-set",
+    "href": "rstudio.html#how-to-combine-all-these-objects-and-form-a-data-set",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "🤔 How to combine all these objects and form a data set?",
+    "text": "🤔 How to combine all these objects and form a data set?\n👇 Something Like This 😻😻\n\n\n\n     name income age place weight_kg\n1    Bhim  23000  23    MH        50\n2    Rama  25000  25    RJ        52\n3    Sara  16000  16    DL        61\n4   Phule   4000  40    HR        40\n5 Savitri  34000  34    HR        70"
+  },
+  {
+    "objectID": "rstudio.html#how-to-create-a-data-object",
+    "href": "rstudio.html#how-to-create-a-data-object",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "How to create a data object?",
+    "text": "How to create a data object?\n\nCodeOutput\n\n\n\nexample_df &lt;- data.frame(name, income, age, place, weight_kg)\n\nexample_df\n\n\n\n\n\n     name income age place weight_kg\n1    Bhim  23000  23    MH        50\n2    Rama  25000  25    RJ        52\n3    Sara  16000  16    DL        61\n4   Phule   4000  40    HR        40\n5 Savitri  34000  34    HR        70"
+  },
+  {
+    "objectID": "rstudio.html#export-data-as-a-csv-file",
+    "href": "rstudio.html#export-data-as-a-csv-file",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "Export data as a csv file",
+    "text": "Export data as a csv file\n\nCodeOutput\n\n\n\nlibrary(readr)\n\n# create a folder in wd & name it \"data\"\nwrite_csv(example_df, \"data/example_df.csv\") \n\n\n\nTo see the created file, check the “data” folder in your working directory."
+  },
+  {
+    "objectID": "rstudio.html#list-of-all-objects",
+    "href": "rstudio.html#list-of-all-objects",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "List of all objects",
+    "text": "List of all objects\n\nCodeOutput\n\n\n\nobjects()\n\n\n\n[1] “age” “example_df” “income” “name” “place”\n[6] “weight_kg”"
+  },
+  {
+    "objectID": "rstudio.html#r-packages-1",
+    "href": "rstudio.html#r-packages-1",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "R Packages",
+    "text": "R Packages\n\n\n“An R package is a collection of functions, data, and documentation that extends the capabilities of base R. Using packages is key to the successful use of R.”\n\n\n\nSource: R for Data Science, 2e"
+  },
+  {
+    "objectID": "rstudio.html#metacran",
+    "href": "rstudio.html#metacran",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "Metacran",
+    "text": "Metacran\n\n\n\nSource: Metacran"
+  },
+  {
+    "objectID": "rstudio.html#r-packages-2",
+    "href": "rstudio.html#r-packages-2",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "R Packages",
+    "text": "R Packages\n\nInstall the R package\nCall the R package\nUpdate the R package\nRemove the R package"
+  },
+  {
+    "objectID": "rstudio.html#install-packages",
+    "href": "rstudio.html#install-packages",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "Install Packages",
+    "text": "Install Packages"
+  },
+  {
+    "objectID": "rstudio.html#name-of-the-packages",
+    "href": "rstudio.html#name-of-the-packages",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "Name of the Packages",
+    "text": "Name of the Packages"
+  },
+  {
+    "objectID": "rstudio.html#installed-packages",
+    "href": "rstudio.html#installed-packages",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "Installed Packages",
+    "text": "Installed Packages"
+  },
+  {
+    "objectID": "rstudio.html#function-to-install-packages",
+    "href": "rstudio.html#function-to-install-packages",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "Function to Install Packages",
+    "text": "Function to Install Packages\n\n\ninstall.packages(\"tidyverse\")"
+  },
+  {
+    "objectID": "rstudio.html#function-to-call-package",
+    "href": "rstudio.html#function-to-call-package",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "Function to Call Package",
+    "text": "Function to Call Package\n\n\nlibrary(tidyverse)"
+  },
+  {
+    "objectID": "rstudio.html#using-packages",
+    "href": "rstudio.html#using-packages",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "Using Packages",
+    "text": "Using Packages\n\nYou need to install package only once like:\n\n📚 We buy books once and use them again and again\n💡 Fix the bulb once and use it again and again."
+  },
+  {
+    "objectID": "rstudio.html#using-packages-1",
+    "href": "rstudio.html#using-packages-1",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "Using Packages",
+    "text": "Using Packages\n\nIn every R document you need to call once the package using function library(), for example library(ggplot2).\nOnce in a while, you need to update the installed packages as well.\nIf you un-install R or RStudio, you will lose all installed packages."
+  },
+  {
+    "objectID": "rstudio.html#tools-rightarrow-package-updates",
+    "href": "rstudio.html#tools-rightarrow-package-updates",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "Tools \\(\\rightarrow\\) Package Updates",
+    "text": "Tools \\(\\rightarrow\\) Package Updates"
+  },
+  {
+    "objectID": "rstudio.html#select-packages-to-update",
+    "href": "rstudio.html#select-packages-to-update",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "Select Packages to Update",
+    "text": "Select Packages to Update"
+  },
+  {
+    "objectID": "rstudio.html#click-install-updates",
+    "href": "rstudio.html#click-install-updates",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "Click Install Updates",
+    "text": "Click Install Updates"
+  },
+  {
+    "objectID": "rstudio.html#to-remove-packages",
+    "href": "rstudio.html#to-remove-packages",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "To Remove Packages",
+    "text": "To Remove Packages"
+  },
+  {
+    "objectID": "rstudio.html#your-turn",
+    "href": "rstudio.html#your-turn",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "🤯 Your Turn",
+    "text": "🤯 Your Turn\n1. What is R mainly used for?\n\nWeb browsing.\n\nGaming.\n\nData analysis and statistics.\n\nDrawing cartoons."
+  },
+  {
+    "objectID": "rstudio.html#your-turn-1",
+    "href": "rstudio.html#your-turn-1",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "🤯 Your Turn",
+    "text": "🤯 Your Turn\n2. What is RStudio?\n\nA video editing software\nA web browser\nAn integrated development environment (IDE) for R\nA spreadsheet tool"
+  },
+  {
+    "objectID": "rstudio.html#your-turn-2",
+    "href": "rstudio.html#your-turn-2",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "🤯 Your Turn",
+    "text": "🤯 Your Turn\n3. What will 2 + 3 return in R?\n\n5\n6\n23\nError"
+  },
+  {
+    "objectID": "rstudio.html#your-turn-3",
+    "href": "rstudio.html#your-turn-3",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "🤯 Your Turn",
+    "text": "🤯 Your Turn\n4. Which of the following is used to create a sequence in R?\n\nlist()\nseq()\nloop()\nrun()"
+  },
+  {
+    "objectID": "rstudio.html#your-turn-4",
+    "href": "rstudio.html#your-turn-4",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "🤯 Your Turn",
+    "text": "🤯 Your Turn\n5. Where do you usually type your code in RStudio?\n\nConsole or Script Editor\nFile Explorer\nToolbar\nHelp tab"
+  },
+  {
+    "objectID": "rstudio.html#your-turn-answers",
+    "href": "rstudio.html#your-turn-answers",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "🤩 Your Turn Answers",
+    "text": "🤩 Your Turn Answers\n\nCorrect answer: C) Data analysis and statistics\nCorrect answer: C) An integrated development environment (IDE) for R\nCorrect answer: A) 5\nCorrect answer: B) seq()\nCorrect answer: A) Console or Script Editor"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "R for Beginners",
+    "section": "",
+    "text": "Hello 👋\nI’m Ajay, a data science educator at the SARA Institute of Data Science. I created this study material for my invited two-day residential workshop on “R Programming” for faculty and researchers at the Institute of Development Studies, Jaipur.\nIf you find this material helpful, please consider supporting my work by starring the repository on GitHub. Your support motivates me to create and share more resources for the community.\nThe background image used for each title slide is taken from Unsplash by Aashish Pareek and background image for the last thank you slide is taken from Unsplash by Pawel."
+  },
+  {
+    "objectID": "index.html#session-introduction-to-r-programming-language",
+    "href": "index.html#session-introduction-to-r-programming-language",
+    "title": "R for Beginners",
+    "section": "1 Session: Introduction to R Programming Language",
+    "text": "1 Session: Introduction to R Programming Language\n    View slides in full screen"
+  },
+  {
+    "objectID": "index.html#session-creating-projects-using-rstudio-ide",
+    "href": "index.html#session-creating-projects-using-rstudio-ide",
+    "title": "R for Beginners",
+    "section": "2 Session: Creating Projects using RStudio IDE",
+    "text": "2 Session: Creating Projects using RStudio IDE\n    View slides in full screen"
+  },
+  {
+    "objectID": "index.html#session-reproducible-research-using-quarto",
+    "href": "index.html#session-reproducible-research-using-quarto",
+    "title": "R for Beginners",
+    "section": "3 Session: Reproducible Research using Quarto",
+    "text": "3 Session: Reproducible Research using Quarto\n    View slides in full screen"
+  },
+  {
+    "objectID": "index.html#session-data-visualization-using-ggplot2",
+    "href": "index.html#session-data-visualization-using-ggplot2",
+    "title": "R for Beginners",
+    "section": "4 Session: Data Visualization using ggplot2",
+    "text": "4 Session: Data Visualization using ggplot2\n    View slides in full screen"
+  },
+  {
+    "objectID": "r-intro.html#hello-everyone",
+    "href": "r-intro.html#hello-everyone",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "Hello! Everyone",
+    "text": "Hello! Everyone\n\n\n\n\n\n\n\n\n\n\n\n\nData Science Educator at SARA Institute"
+  },
+  {
+    "objectID": "r-intro.html#data-science-project",
+    "href": "r-intro.html#data-science-project",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "Data Science Project",
+    "text": "Data Science Project\n\n\n\n\n\n\n\n\nSource: R for Data Science (2e)"
+  },
+  {
+    "objectID": "r-intro.html#r-programming-language",
+    "href": "r-intro.html#r-programming-language",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "R Programming Language",
+    "text": "R Programming Language\n \n\n\n\n\n\n“R is a free software environment for statistical computing and graphics.”\n\n\n\nSource: R Project Website"
+  },
+  {
+    "objectID": "r-intro.html#history-of-r",
+    "href": "r-intro.html#history-of-r",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "History of R",
+    "text": "History of R\n\nInitially developed as S language by Bell Laboratories.\nFirst appeared in August 1993 as R language by:\n\n\n\n\n\n\n\n\nRoss Ihaka, New Zealand Statistician\n\n\n\n\n\n\n\nRobert Gentleman, Canadian Statistician"
+  },
+  {
+    "objectID": "r-intro.html#download-r-from-cran",
+    "href": "r-intro.html#download-r-from-cran",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "Download R from CRAN",
+    "text": "Download R from CRAN\nhttps://www.r-project.org/"
+  },
+  {
+    "objectID": "r-intro.html#r-console",
+    "href": "r-intro.html#r-console",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "R Console",
+    "text": "R Console\n\n\n\n\nR version 4.5.0 (2025-04-11)\nR name “How About a Twenty-Six”\nR licence “ABSOLUTELY NO WARRANTY”\nR prompt &gt;"
+  },
+  {
+    "objectID": "r-intro.html#workspace-image",
+    "href": "r-intro.html#workspace-image",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "Workspace Image",
+    "text": "Workspace Image\n\n\n\n\nDon’t save workspace image.\nIt helps in “freshly minted R sessions”.\n“put more trust in your script than in your memory”.\n\n\n\n\n\n\n\n\n\n\nSource: R Bloggers"
+  },
+  {
+    "objectID": "r-intro.html#r-console-1",
+    "href": "r-intro.html#r-console-1",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "R Console",
+    "text": "R Console\n\n\n\nCode\n\n7\n\n\nOutput\n[1] 7"
+  },
+  {
+    "objectID": "r-intro.html#r-console-addition",
+    "href": "r-intro.html#r-console-addition",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "R Console: Addition",
+    "text": "R Console: Addition\n\n\n\nCode\n\n2 + 1\n\n\nOutput\n[1] 3"
+  },
+  {
+    "objectID": "r-intro.html#operators",
+    "href": "r-intro.html#operators",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "Operators",
+    "text": "Operators\n\n12 + 3 in this code + is an operator.\n\n\n\n“Operators are used to perform operations on variables and values.”\n\n\n\n\nSource: w3schools"
+  },
+  {
+    "objectID": "r-intro.html#arithmetic-operators",
+    "href": "r-intro.html#arithmetic-operators",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "Arithmetic Operators",
+    "text": "Arithmetic Operators\n\n\n“Arithmetic operators are used with numeric values to perform common mathematical operations.”"
+  },
+  {
+    "objectID": "r-intro.html#arithmetic-operators-1",
+    "href": "r-intro.html#arithmetic-operators-1",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "Arithmetic Operators",
+    "text": "Arithmetic Operators\n\n\n\n\nOperator\nName\nExample\n\n\n\n\n+\nAddition\nx + y\n\n\n-\nSubtraction\nx - y\n\n\n*\nMultiplication\nx * y\n\n\n/\nDivision\nx / y\n\n\n^\nExponent\nx ^ y\n\n\n\n\n\nSource: w3schools"
+  },
+  {
+    "objectID": "r-intro.html#r-console-subtraction",
+    "href": "r-intro.html#r-console-subtraction",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "R Console: Subtraction",
+    "text": "R Console: Subtraction\n\n\n\nCode\n\n10 - 2\n\n\nOutput\n[1] 8"
+  },
+  {
+    "objectID": "r-intro.html#r-console-multiplication",
+    "href": "r-intro.html#r-console-multiplication",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "R Console: Multiplication",
+    "text": "R Console: Multiplication\n\n\n\nCode\n\n12 * 4\n\n\nOutput\n[1] 48"
+  },
+  {
+    "objectID": "r-intro.html#r-console-division",
+    "href": "r-intro.html#r-console-division",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "R Console: Division",
+    "text": "R Console: Division\n\n\n\nCode\n\n25 / 5\n\n\nOutput\n[1] 5"
+  },
+  {
+    "objectID": "r-intro.html#r-console-2",
+    "href": "r-intro.html#r-console-2",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "R Console",
+    "text": "R Console\n\n\n\nCode\n\n3434 + 343453 * 2323 / 534 - 1000\n\n\nOutput\n[1] 1496519\n \n\n\n\n\n\nImportant\n\n\nR follows the BODMAS (bracket, order, division, multiplication, addition and subtraction) rule to solve mathematical equations."
+  },
+  {
+    "objectID": "r-intro.html#r-comparison-operators",
+    "href": "r-intro.html#r-comparison-operators",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "R Comparison Operators",
+    "text": "R Comparison Operators\n\n\n“Comparison operators are used to compare two values.”"
+  },
+  {
+    "objectID": "r-intro.html#r-comparison-operators-1",
+    "href": "r-intro.html#r-comparison-operators-1",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "R Comparison Operators",
+    "text": "R Comparison Operators\n\n\n\n\nOperator\nName\nExample\n\n\n\n\n==\nEqual\nx == y\n\n\n!=\nNot equal\nx != y\n\n\n&gt;\nGreater than\nx &gt; y\n\n\n&lt;\nLess than\nx &lt; y\n\n\n&gt;=\nGreater than or equal to\nx &gt;= y\n\n\n&lt;=\nLess than or equal to\nx &lt;= y"
+  },
+  {
+    "objectID": "r-intro.html#r-console-3",
+    "href": "r-intro.html#r-console-3",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "R Console",
+    "text": "R Console\n\n\n\nCode\n\n4 == 5\n\n\nOutput\n[1] FALSE"
+  },
+  {
+    "objectID": "r-intro.html#r-console-4",
+    "href": "r-intro.html#r-console-4",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "R Console",
+    "text": "R Console\n\n\n\nCode\n\n67 &gt; 60\n\n\nOutput\n[1] TRUE"
+  },
+  {
+    "objectID": "r-intro.html#r-miscellaneous-operator",
+    "href": "r-intro.html#r-miscellaneous-operator",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "R Miscellaneous Operator",
+    "text": "R Miscellaneous Operator\n\n“Miscellaneous operators are used to manipulate data.”\n\n\n\n\n\nCode\n\n12:36\n\n\nOutput\n[1] 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36\n\n\n\n\nSource: w3schools"
+  },
+  {
+    "objectID": "r-intro.html#what-if-we-want-to-add-all-these-values-in-r",
+    "href": "r-intro.html#what-if-we-want-to-add-all-these-values-in-r",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "What if we want to add all these values in R?",
+    "text": "What if we want to add all these values in R?\n\n[1] 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36"
+  },
+  {
+    "objectID": "r-intro.html#r-function",
+    "href": "r-intro.html#r-function",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "R Function",
+    "text": "R Function\n\n“A function, in a programming environment, is a set of instructions.”\n“A programmer builds a function to avoid repeating the same task, or reduce complexity.”"
+  },
+  {
+    "objectID": "r-intro.html#r-function-1",
+    "href": "r-intro.html#r-function-1",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "R Function",
+    "text": "R Function\n\nCodeOutput\n\n\n\nsum(2, 4, 6) \n\n\n\n[1] 12"
+  },
+  {
+    "objectID": "r-intro.html#structure-of-a-r-function",
+    "href": "r-intro.html#structure-of-a-r-function",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "Structure of a R function",
+    "text": "Structure of a R function"
+  },
+  {
+    "objectID": "r-intro.html#structure-of-a-r-function-1",
+    "href": "r-intro.html#structure-of-a-r-function-1",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "Structure of a R function",
+    "text": "Structure of a R function"
+  },
+  {
+    "objectID": "r-intro.html#structure-of-a-r-function-2",
+    "href": "r-intro.html#structure-of-a-r-function-2",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "Structure of a R function",
+    "text": "Structure of a R function"
+  },
+  {
+    "objectID": "r-intro.html#structure-of-a-r-function-3",
+    "href": "r-intro.html#structure-of-a-r-function-3",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "Structure of a R function",
+    "text": "Structure of a R function"
+  },
+  {
+    "objectID": "r-intro.html#structure-of-a-r-function-4",
+    "href": "r-intro.html#structure-of-a-r-function-4",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "Structure of a R function",
+    "text": "Structure of a R function"
+  },
+  {
+    "objectID": "r-intro.html#r-function-sum",
+    "href": "r-intro.html#r-function-sum",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "R Function sum()",
+    "text": "R Function sum()\n\nCodeOutput\n\n\n\nsum(12:36) \n\n\n\n[1] 600"
+  },
+  {
+    "objectID": "r-intro.html#round-function",
+    "href": "r-intro.html#round-function",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "Round function",
+    "text": "Round function\n\nCodeOutput\n\n\nFunction with default argument.\n\nround(x = 42.58756)\n\nor\n\nround(42.58756)\n\n\n\n[1] 43\nor\n[1] 43"
+  },
+  {
+    "objectID": "r-intro.html#round-function-1",
+    "href": "r-intro.html#round-function-1",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "Round function",
+    "text": "Round function\n\nCodeOutput\n\n\nFunction with a specific value of an argument.\n\nround(x = 46.58754, digits = 2)\n\nor\n\nround(46.58754, 2)\n\n\n\n[1] 46.59\nor\n[1] 46.59"
+  },
+  {
+    "objectID": "r-intro.html#square-root-function",
+    "href": "r-intro.html#square-root-function",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "Square Root Function",
+    "text": "Square Root Function\n\nCodeOutput\n\n\nFunction with a specific value of an argument.\n\nsqrt(x = 9)\n\n\n\n[1] 3"
+  },
+  {
+    "objectID": "r-intro.html#sequence-function",
+    "href": "r-intro.html#sequence-function",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "Sequence Function",
+    "text": "Sequence Function\n\nCodeOutput\n\n\nFunction with a specific value of an argument.\n\nseq.int(from = 10, to = 30, by = 5)\n\nor\n\nseq.int(from = 10,\n        to = 30,\n        by = 5)\n\nor\n\nseq.int(10, 30, 5)\n\n\n\n[1] 10 15 20 25 30\nor\n[1] 10 15 20 25 30\nor\n[1] 10 15 20 25 30"
+  },
+  {
+    "objectID": "r-intro.html#plot-using-r",
+    "href": "r-intro.html#plot-using-r",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "Plot using R",
+    "text": "Plot using R\n\nCodeOutput\n\n\n\nplot(1:100)"
+  },
+  {
+    "objectID": "r-intro.html#create-function",
+    "href": "r-intro.html#create-function",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "Create Function",
+    "text": "Create Function\n– reusable set of instructions\n\nadd &lt;- function(x, y) {\n  return(x + y)\n}\n\nadd(3, 4)   # Output: 7\n\n[1] 7"
+  },
+  {
+    "objectID": "r-intro.html#getting-help-with-r",
+    "href": "r-intro.html#getting-help-with-r",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "Getting Help with R",
+    "text": "Getting Help with R\n\nThe help() function and ? help operator in R.\nUse args() function to the get the list of arguments of a function.\n\n\n\nR Website"
+  },
+  {
+    "objectID": "r-intro.html#your-turn",
+    "href": "r-intro.html#your-turn",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "🤯 Your Turn",
+    "text": "🤯 Your Turn\n\n\n\n−+\n15:00\n\n\n\n\nAdd two numbers: 15 + 27\nCreate a sequence of numbers from 1 to 10\nCreate a sequence from 5 to 50, increasing by 5\nFind the square root of 81\nRound the number 3.786 to 2 decimal places"
+  },
+  {
+    "objectID": "r-intro.html#your-turn-1",
+    "href": "r-intro.html#your-turn-1",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "🤩 Your Turn",
+    "text": "🤩 Your Turn\n\nAdd two numbers: 15 + 27, 15 + 27\nCreate a sequence of numbers from 1 to 10, seq(1, 10)\nCreate a sequence from 5 to 50, increasing by 5, seq(5, 50, by = 5)\nFind the square root of 81, sqrt(81)\nRound the number 3.786 to 2 decimal places, round(3.786, 2)"
+  },
+  {
+    "objectID": "r-intro.html#thats-okay-but-how-to",
+    "href": "r-intro.html#thats-okay-but-how-to",
+    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "section": "😏 That’s okay but how to …",
+    "text": "😏 That’s okay but how to …\n\ncombine plot, text, tables and images in a single file,\npublish my work online or convert into a word, pdf or html file, and\nwork efficiently with my different projects and save, share and track them."
+  },
+  {
+    "objectID": "viz.html#section",
+    "href": "viz.html#section",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "",
+    "text": "“The simple graph has brought more information to the data analyst’s mind than any other device.” — John Tukey"
+  },
+  {
+    "objectID": "viz.html#grammar-of-graphics",
+    "href": "viz.html#grammar-of-graphics",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "Grammar of Graphics",
+    "text": "Grammar of Graphics"
+  },
+  {
+    "objectID": "viz.html#ggplot2-layers",
+    "href": "viz.html#ggplot2-layers",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "ggplot2 Layers",
+    "text": "ggplot2 Layers"
+  },
+  {
+    "objectID": "viz.html#data-penguins",
+    "href": "viz.html#data-penguins",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "Data: penguins",
+    "text": "Data: penguins\nLive on three island: Biscoe, Dream, & Torgersen.\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: palmerpenguins"
+  },
+  {
+    "objectID": "viz.html#know-your-data",
+    "href": "viz.html#know-your-data",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "Know Your Data",
+    "text": "Know Your Data\n\n\nglimpse(penguins)\n\nRows: 344\nColumns: 8\n$ species           &lt;fct&gt; Adelie, Adelie, Adelie, Adelie, Adelie, Adelie, Adel…\n$ island            &lt;fct&gt; Torgersen, Torgersen, Torgersen, Torgersen, Torgerse…\n$ bill_length_mm    &lt;dbl&gt; 39.1, 39.5, 40.3, NA, 36.7, 39.3, 38.9, 39.2, 34.1, …\n$ bill_depth_mm     &lt;dbl&gt; 18.7, 17.4, 18.0, NA, 19.3, 20.6, 17.8, 19.6, 18.1, …\n$ flipper_length_mm &lt;int&gt; 181, 186, 195, NA, 193, 190, 181, 195, 193, 190, 186…\n$ body_mass_g       &lt;int&gt; 3750, 3800, 3250, NA, 3450, 3650, 3625, 4675, 3475, …\n$ sex               &lt;fct&gt; male, female, female, NA, female, male, female, male…\n$ year              &lt;int&gt; 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007…"
+  },
+  {
+    "objectID": "viz.html#import-data",
+    "href": "viz.html#import-data",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "Import Data",
+    "text": "Import Data\n\nTaskCodeOutput\n\n\n\n\n\n\nggplot(data = penguins)\n\n\n\n\n\n\n\n\n\n\n\nFigure 1"
+  },
+  {
+    "objectID": "viz.html#map-variables-aesthetics",
+    "href": "viz.html#map-variables-aesthetics",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "Map Variables Aesthetics",
+    "text": "Map Variables Aesthetics\n\nTaskCodeOutput\n\n\n\n\n\n\nggplot(data = penguins,\n       mapping = aes(x = species))\n\n\n\n\n\n\n\n\n\n\n\nFigure 2"
+  },
+  {
+    "objectID": "viz.html#add-geometric-shapes",
+    "href": "viz.html#add-geometric-shapes",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "Add Geometric Shapes",
+    "text": "Add Geometric Shapes\n\nTaskCodeOutput\n\n\n\n\n\n\nggplot(data = penguins,\n       mapping = aes(x = species)) +\n  geom_bar()\n\n\n\n\n\n\n\n\n\n\n\nFigure 3"
+  },
+  {
+    "objectID": "viz.html#key-components-are",
+    "href": "viz.html#key-components-are",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "Key Components are:",
+    "text": "Key Components are:\n\n\nYour data set,\nA set of aesthetic mappings between variables in the data and visual properties, and\nAt least one layer which describes how to render each observation. Layers are usually created with a geom function."
+  },
+  {
+    "objectID": "viz.html#your-turn",
+    "href": "viz.html#your-turn",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "🧠 YOUR TURN",
+    "text": "🧠 YOUR TURN\n\nTaskAnswer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nggplot(data = penguins,\n       mapping = aes(x = island)) +\n  geom_bar()\n\n\n\n\n\n\n\n−+\n05:00"
+  },
+  {
+    "objectID": "viz.html#common-mistakes",
+    "href": "viz.html#common-mistakes",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "Common Mistakes",
+    "text": "Common Mistakes\n\nMake sure that every ( is matched with a ) and every \" is paired with another \".\nConsole shows no results but a + sign that means your code is incomplete and R is waiting for you to complete the code.\nin ggplot + has to come at the end of the line, not the start"
+  },
+  {
+    "objectID": "viz.html#fill-color",
+    "href": "viz.html#fill-color",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "“Fill” Color",
+    "text": "“Fill” Color\n\nTaskCodeOutput\n\n\n\n\n\n\nggplot(data = penguins,\n       mapping = aes(x = species)) +\n  geom_bar(fill = \"blue\")\n\n\n\n\n\n\n\n\n\n\n\nFigure 4"
+  },
+  {
+    "objectID": "viz.html#fill-colors",
+    "href": "viz.html#fill-colors",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "“Fill” Colors",
+    "text": "“Fill” Colors\n\nTaskCodeOutput\n\n\n\n\n\n\nggplot(data = penguins,\n       mapping = aes(x = species)) +\n  geom_bar(fill = c(\"blue\", \"green\", \"yellow\"))\n\n\n\n\n\n\n\n\n\n\n\nFigure 5"
+  },
+  {
+    "objectID": "viz.html#fill-color-colors",
+    "href": "viz.html#fill-color-colors",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "“Fill” & “Color” Colors",
+    "text": "“Fill” & “Color” Colors\n\nTaskCodeOutput\n\n\n\n\n\n\nggplot(data = penguins,\n       mapping = aes(x = species)) +\n  geom_bar(fill = c(\"blue\", \"green\", \"yellow\"),\n           color = \"black\",\n           size = 5)\n\n\n\n\n\n\n\n\n\n\n\nFigure 6"
+  },
+  {
+    "objectID": "viz.html#your-turn-1",
+    "href": "viz.html#your-turn-1",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "🧠 YOUR TURN",
+    "text": "🧠 YOUR TURN\n\nTaskAnswer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nggplot(data = penguins,\n       mapping = aes(x = island)) +\n  geom_bar(fill = c(\"red\", \"yellow\", \"darkgreen\"),\n           color = \"black\")\n\n\n\n\n\n\n\n−+\n05:00"
+  },
+  {
+    "objectID": "viz.html#plot-a-continuous-variable",
+    "href": "viz.html#plot-a-continuous-variable",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "Plot A Continuous Variable",
+    "text": "Plot A Continuous Variable\n\nTaskCodeOutput\n\n\n\n\n\n\n# bill_length_mm is dbl type variable/column\n\nggplot(data = penguins,\n       mapping = aes(x = bill_length_mm)) +\n  geom_histogram()\n\n\n\n\n\n\n\n\n\n\n\nFigure 7"
+  },
+  {
+    "objectID": "viz.html#your-turn-2",
+    "href": "viz.html#your-turn-2",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "🧠 YOUR TURN",
+    "text": "🧠 YOUR TURN\n\nTaskAnswer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nggplot(data = penguins,\n       mapping = aes(x = bill_length_mm)) +\n  geom_histogram(fill = \"darkblue\",\n                 color = \"white\")\n\n\n\n\n\n\n\n−+\n05:00"
+  },
+  {
+    "objectID": "viz.html#two-continuous-variables",
+    "href": "viz.html#two-continuous-variables",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "Two Continuous Variables",
+    "text": "Two Continuous Variables\n\nTaskCodeOutput\n\n\n\n\n\n\nggplot(data = penguins,\n       mapping = aes(x = bill_length_mm, y = bill_depth_mm)) +\n  geom_point()\n\n\n\n\n\n\n\n\n\n\n\nFigure 8"
+  },
+  {
+    "objectID": "viz.html#geom-size",
+    "href": "viz.html#geom-size",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "Geom Size",
+    "text": "Geom Size\n\nTaskCodeOutput\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nggplot(data = penguins,\n       mapping = aes(x = bill_length_mm, y = bill_depth_mm)) +\n  geom_point(size = 5)\n\n\n\n\n\n\n\n\n\n\n\nFigure 9"
+  },
+  {
+    "objectID": "viz.html#geom-shape",
+    "href": "viz.html#geom-shape",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "Geom Shape",
+    "text": "Geom Shape\n\nTaskCodeOutput\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nggplot(data = penguins,\n       mapping = aes(x = bill_length_mm, y = bill_depth_mm)) +\n  geom_point(size = 5,\n             shape = 8)\n\n\n\n\n\n\n\n\n\n\n\nFigure 10"
+  },
+  {
+    "objectID": "viz.html#your-turn-3",
+    "href": "viz.html#your-turn-3",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "🧠 YOUR TURN",
+    "text": "🧠 YOUR TURN\n\nTaskAnswer\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nggplot(data = penguins,\n       mapping = aes(x = body_mass_g, y = flipper_length_mm)) +\n  geom_point(size = 2, shape = 23, color = \"red\", fill = \"gold\")\n\n\n\n\n\n\n\n−+\n05:00"
+  },
+  {
+    "objectID": "viz.html#plot-two-factorscategorical",
+    "href": "viz.html#plot-two-factorscategorical",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "Plot Two Factors/Categorical",
+    "text": "Plot Two Factors/Categorical\n\nTaskCodeOutput\n\n\n\nSometimes, we want to differentiate values of a factor/category variable on the basis of another factor/category variable.\n\n\n\n\nggplot(data = penguins,\n       mapping = aes(x = island)) +\n  geom_bar(aes(fill = sex))\n\n\n\n\n\n\n\n\n\n\n\nFigure 11"
+  },
+  {
+    "objectID": "viz.html#plot-a-continuous-and-factor",
+    "href": "viz.html#plot-a-continuous-and-factor",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "Plot a Continuous and Factor",
+    "text": "Plot a Continuous and Factor\n\nTaskCodeOutput\n\n\n\nSometimes, we want to differentiate values from a continuous variable on the basis of factor/category variables.\n\n\n\n\nggplot(data = penguins,\n       mapping = aes(x = bill_length_mm)) +\n  geom_histogram(aes(fill = sex),\n                 color = \"black\")\n\n\n\n\n\n\n\n\n\n\n\nFigure 12"
+  },
+  {
+    "objectID": "viz.html#two-continuous-a-factor",
+    "href": "viz.html#two-continuous-a-factor",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "Two Continuous & a Factor",
+    "text": "Two Continuous & a Factor\n\nTaskCodeOutput\n\n\n\nVisualize how the bill length and bill depth relationship varies between male and female penguins.\n\n\n\n\nggplot(data = penguins,\n       mapping = aes(x = bill_length_mm, y = bill_depth_mm)) +\n  geom_point(aes(color = sex))\n\n\n\n\n\n\n\n\n\n\n\nFigure 13"
+  },
+  {
+    "objectID": "viz.html#two-continuous-a-factor-1",
+    "href": "viz.html#two-continuous-a-factor-1",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "Two Continuous & a Factor",
+    "text": "Two Continuous & a Factor\n\nTaskCodeOutput\n\n\n\nVisualize how the bill length and bill depth relationship varies among three penguin species.\n\n\n\n\nggplot(data = penguins,\n       mapping = aes(x = bill_length_mm, y = bill_depth_mm)) +\n  geom_point(aes(color = species))\n\n\n\n\n\n\n\n\n\n\n\nFigure 14"
+  },
+  {
+    "objectID": "viz.html#write-labels",
+    "href": "viz.html#write-labels",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "Write Labels",
+    "text": "Write Labels\n\nTaskCodeOutput\n\n\n\nTitle of the plot\nSubtitle of the plot with more information\nTitle of the x-axis\nTitle of the y-axis\n\n\n\n\nggplot(data = penguins,\n       mapping = aes(x = bill_length_mm, y = bill_depth_mm)) +\n  geom_point(aes(color = species)) +\n  labs(\n    title = \"The title of the plot\",\n    subtitle = \"The subtitle of the plot\",\n    x = \"Bill length (mm)\",\n    y = \"Bill depth (mm)\"\n  )\n\n\n\n\n\n\n\n\n\n\n\nFigure 15"
+  },
+  {
+    "objectID": "viz.html#different-shapes",
+    "href": "viz.html#different-shapes",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "Different Shapes",
+    "text": "Different Shapes\n\nTaskCodeOutput\n\n\n\nEach level of the factor/category can be shown using a different shape of different color.\n\n\n\n\nggplot(data = penguins,\n       mapping = aes(x = bill_length_mm, y = bill_depth_mm)) +\n  geom_point(aes(color = species, shape = species)) +\n  labs(\n    title = \"The title of the plot\",\n    subtitle = \"The subtitle of the plot\",\n    x = \"Bill length (mm)\",\n    y = \"Bill depth (mm)\"\n  )\n\n\n\n\n\n\n\n\n\n\n\nFigure 16"
+  },
+  {
+    "objectID": "viz.html#ggthemes",
+    "href": "viz.html#ggthemes",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "GGThemes",
+    "text": "GGThemes\n\nTaskCodeOutput\n\n\n\nAdditional themes, scales, and geoms for ggplot2\n\n\n#install.packages('ggthemes', dependencies = TRUE)\nlibrary(ggthemes)\n\n \nSource: Learn more about ggthemes & ggthemes tutorial\n\n\n\nggplot(data = penguins,\n       mapping = aes(x = bill_length_mm, y = bill_depth_mm)) +\n  geom_point(aes(color = species, shape = species)) +\n  labs(\n    title = \"The title of the plot\",\n    subtitle = \"The subtitle of the plot\",\n    x = \"Bill length (mm)\",\n    y = \"Bill depth (mm)\"\n  ) +\n  theme_economist()\n\n\n\n\n\n\n\n\n\n\n\nFigure 17"
+  },
+  {
+    "objectID": "viz.html#theme-solarized",
+    "href": "viz.html#theme-solarized",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "Theme Solarized",
+    "text": "Theme Solarized\n\nTaskCodeOutput\n\n\n\n\n\n\nbillplot &lt;- ggplot(data = penguins,\n       mapping = aes(x = bill_length_mm, y = bill_depth_mm)) +\n  geom_point(aes(color = species, shape = species)) +\n  labs(\n    title = \"The title of the plot\",\n    subtitle = \"The subtitle of the plot\",\n    x = \"Bill length (mm)\",\n    y = \"Bill depth (mm)\"\n  ) \n\n\n\nbillplot + theme_solarized_2()\n\n\n\n\n\n\n\n\n\n\n\nFigure 18"
+  },
+  {
+    "objectID": "viz.html#theme-tufte",
+    "href": "viz.html#theme-tufte",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "Theme Tufte",
+    "text": "Theme Tufte\n\nTaskCodeOutput\n\n\n\n\n\n\nbillplot + theme_tufte()\n\n\n\n\n\n\n\n\n\n\n\nFigure 19"
+  },
+  {
+    "objectID": "viz.html#theme-clean",
+    "href": "viz.html#theme-clean",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "Theme Clean",
+    "text": "Theme Clean\n\nTaskCodeOutput\n\n\n\n\n\n\nbillplot + theme_clean()\n\n\n\n\n\n\n\n\n\n\n\nFigure 20"
+  },
+  {
+    "objectID": "viz.html#color-palette",
+    "href": "viz.html#color-palette",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "🎨 Color Palette",
+    "text": "🎨 Color Palette\n\nTaskCodeOutput\n\n\n\nR package ggthemes have function to use color scheme for colorblindness. Know more\n\n\n\n\nbillplot + \n      theme_clean() + \n      scale_color_colorblind()\n\n\n\n\n\n\n\n\n\n\n\nFigure 21"
+  },
+  {
+    "objectID": "viz.html#color-palette-1",
+    "href": "viz.html#color-palette-1",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "Color Palette",
+    "text": "Color Palette"
+  },
+  {
+    "objectID": "viz.html#color-palette-rcolorbrewer",
+    "href": "viz.html#color-palette-rcolorbrewer",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "Color Palette RColorBrewer",
+    "text": "Color Palette RColorBrewer\n\nTaskCodeOutput\n\n\n\nlibrary(RColorBrewer)\n\n\n\n\nbillplot +\n  theme_clean() +\n  scale_color_brewer(palette = \"Dark2\")\n\n\n\n\n\n\n\n\n\n\n\nFigure 22"
+  },
+  {
+    "objectID": "viz.html#color-palette-wesanderson",
+    "href": "viz.html#color-palette-wesanderson",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "Color Palette Wesanderson",
+    "text": "Color Palette Wesanderson\n\nTaskCodeOutput\n\n\n\nlibrary(wesanderson)\n\nnames(wes_palettes)\n\n [1] \"BottleRocket1\"     \"BottleRocket2\"     \"Rushmore1\"        \n [4] \"Rushmore\"          \"Royal1\"            \"Royal2\"           \n [7] \"Zissou1\"           \"Zissou1Continuous\" \"Darjeeling1\"      \n[10] \"Darjeeling2\"       \"Chevalier1\"        \"FantasticFox1\"    \n[13] \"Moonrise1\"         \"Moonrise2\"         \"Moonrise3\"        \n[16] \"Cavalcanti1\"       \"GrandBudapest1\"    \"GrandBudapest2\"   \n[19] \"IsleofDogs1\"       \"IsleofDogs2\"       \"FrenchDispatch\"   \n[22] \"AsteroidCity1\"     \"AsteroidCity2\"     \"AsteroidCity3\"    \n\n\n\n\n\nbillplot +\n  theme_clean() +\n  scale_color_manual(values = wes_palette(\"BottleRocket2\", n = 3))\n\n\n\n\n\n\n\n\n\n\n\nFigure 23"
+  },
+  {
+    "objectID": "viz.html#export-plot",
+    "href": "viz.html#export-plot",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "Export Plot",
+    "text": "Export Plot\n\nTaskCodeOutput\n\n\n\nExport/save plot as pdf, jpg or png file.\n\n\n\n\nggplot(data = penguins,\n       mapping = aes(x = bill_length_mm, y = bill_depth_mm)) +\n  geom_point(aes(color = species, shape = species)) +\n  labs(\n    title = \"The title of the plot\",\n    subtitle = \"The subtitle of the plot\",\n    x = \"Bill length (mm)\",\n    y = \"Bill depth (mm)\"\n  ) +\n  theme_clean() +\n  scale_color_manual(values = wes_palette(\"BottleRocket2\", n = 3))\n\nggsave(\"penguins-plot.pdf\")\n\n\n\n\n\n\n\n\n\n\n\nFigure 24"
+  },
+  {
+    "objectID": "quarto.html#quarto",
+    "href": "quarto.html#quarto",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "Quarto",
+    "text": "Quarto"
+  },
+  {
+    "objectID": "quarto.html#quarto-1",
+    "href": "quarto.html#quarto-1",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "Quarto",
+    "text": "Quarto\n\n“An open-source scientific and technical publishing system”\n\n\nQuarto can produce a wide variety of output formats:\n\n Articles & Reports\n Presentations\n Interactive Docs\n Websites\n Books\n\n\n\n\nSource: Quarto website"
+  },
+  {
+    "objectID": "quarto.html#analyze.-share.-reproduce.",
+    "href": "quarto.html#analyze.-share.-reproduce.",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "Analyze. Share. Reproduce.",
+    "text": "Analyze. Share. Reproduce."
+  },
+  {
+    "objectID": "quarto.html#section",
+    "href": "quarto.html#section",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "",
+    "text": "ArticleDemo"
+  },
+  {
+    "objectID": "quarto.html#quarto-workflow-upon-rendering",
+    "href": "quarto.html#quarto-workflow-upon-rendering",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "Quarto Workflow upon Rendering",
+    "text": "Quarto Workflow upon Rendering"
+  },
+  {
+    "objectID": "quarto.html#source-editor-visual-editor",
+    "href": "quarto.html#source-editor-visual-editor",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "Source Editor & Visual Editor",
+    "text": "Source Editor & Visual Editor"
+  },
+  {
+    "objectID": "quarto.html#visual-editor",
+    "href": "quarto.html#visual-editor",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "Visual Editor",
+    "text": "Visual Editor"
+  },
+  {
+    "objectID": "quarto.html#visual-editor-1",
+    "href": "quarto.html#visual-editor-1",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "Visual Editor",
+    "text": "Visual Editor"
+  },
+  {
+    "objectID": "quarto.html#visual-editor-2",
+    "href": "quarto.html#visual-editor-2",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "Visual Editor",
+    "text": "Visual Editor"
+  },
+  {
+    "objectID": "quarto.html#source-editor",
+    "href": "quarto.html#source-editor",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "Source Editor",
+    "text": "Source Editor"
+  },
+  {
+    "objectID": "quarto.html#section-10",
+    "href": "quarto.html#section-10",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "",
+    "text": "BookDemo"
+  },
+  {
+    "objectID": "quarto.html#text-formatting",
+    "href": "quarto.html#text-formatting",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "Text Formatting",
+    "text": "Text Formatting\n\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\nnormal\nnormal\n\n\n*italics*\nitalics\n\n\n**bold**\nbold\n\n\n***bold italics***\nbold italics\n\n\n\n\n\nSource: Quarto guide"
+  },
+  {
+    "objectID": "quarto.html#text-formatting-1",
+    "href": "quarto.html#text-formatting-1",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "Text Formatting",
+    "text": "Text Formatting\n\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\nsuperscript^2^\nsuperscript2\n\n\nsubscript~2~\nsubscript2\n\n\n~~strike through~~\nstrike through\n\n\n`verbatim code`\nverbatim code\n\n\n\n\n\nSource: Quarto guide"
+  },
+  {
+    "objectID": "quarto.html#headings",
+    "href": "quarto.html#headings",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "Headings",
+    "text": "Headings\n\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\n# Header 1\nHeader 1\n\n\n## Header 2\nHeader 2\n\n\n### Header 3\nHeader 3\n\n\n#### Header 4\nHeader 4\n\n\n##### Header 5\nHeader 5\n\n\n###### Header 6\nHeader 6"
+  },
+  {
+    "objectID": "quarto.html#add-references",
+    "href": "quarto.html#add-references",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "Add References",
+    "text": "Add References\n\nCreate a Bibliography File (.bib)\nAdd Metadata to Your Quarto Document\nCite Sources in Your Text\nAdd a References Section\nRender the Document"
+  },
+  {
+    "objectID": "quarto.html#insert-links",
+    "href": "quarto.html#insert-links",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "Insert Links",
+    "text": "Insert Links\n\n\n\n\nMarkdown syntax\nOutput\n\n\n\n\n&lt;https://saraedu.netlify.app/&gt;\nhttps://saraedu.netlify.app/"
+  },
+  {
+    "objectID": "quarto.html#insert-links-1",
+    "href": "quarto.html#insert-links-1",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "Insert Links",
+    "text": "Insert Links\n\n\n\n\nMarkdown syntax\nOutput\n\n\n\n\n[SARA](https://saraedu.netlify.app/)\nSARA"
+  },
+  {
+    "objectID": "quarto.html#add-images-from-pc",
+    "href": "quarto.html#add-images-from-pc",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "Add Images from PC",
+    "text": "Add Images from PC\n\nIf image is saved in your computer, ![](add image path here)\n\n\n\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\n![](images/ajay.png)"
+  },
+  {
+    "objectID": "quarto.html#add-online-images",
+    "href": "quarto.html#add-online-images",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "Add Online Images",
+    "text": "Add Online Images\n\nIf image is taken from the internet, ![](add image link here)\n\n\n\n\n\n![](https://images.unsplash.com/photo-1627130595904-ebeeb6540a93?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)"
+  },
+  {
+    "objectID": "quarto.html#unordered-list",
+    "href": "quarto.html#unordered-list",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "Unordered List",
+    "text": "Unordered List\n\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\n* Item 1\n* Item 2\n* Item 3\n\nItem 1\nItem 2\nItem 3"
+  },
+  {
+    "objectID": "quarto.html#unordered-list-sub-items",
+    "href": "quarto.html#unordered-list-sub-items",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "Unordered List: Sub-items",
+    "text": "Unordered List: Sub-items\n\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\n* Main items\n    + Sub-item 1\n    + Sub-item 2\n        - Sub-sub-item 1\n\nMain items\n\nSub-item 1\nSub-item 2\n\nSub-sub-item 1"
+  },
+  {
+    "objectID": "quarto.html#ordered-list",
+    "href": "quarto.html#ordered-list",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "Ordered List",
+    "text": "Ordered List\n\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\n1. Eggs\n1. Tea\n1. Fish\n1. Milk\n\nEggs\nTea\nFish\nMilk"
+  },
+  {
+    "objectID": "quarto.html#list",
+    "href": "quarto.html#list",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "List",
+    "text": "List\n\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\n(@)  A list whose numbering\n\ncontinues after\n\n(@)  an interruption\n\nA list whose numbering\n\ncontinues after\n\nan interruption"
+  },
+  {
+    "objectID": "quarto.html#equations",
+    "href": "quarto.html#equations",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "Equations",
+    "text": "Equations\n\nUse $ delimiters for inline math.\n\n\n\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\nIt is a great equation $E = mc^{2}$\nIt is a great equation \\(E=mc^{2}\\)\n\n\n\n\n\n\nFrom Rice University Latex Mathematical Symbols"
+  },
+  {
+    "objectID": "quarto.html#equations-1",
+    "href": "quarto.html#equations-1",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "Equations",
+    "text": "Equations\n\nUse $$ delimiters for display math.\n\n\n\n\n\n\n\n\n\n\nMarkdown Syntax\nOutput\n\n\n\n\nIt is a great equation $$E = mc^{2}$$\nIt is a great equation \\[E=mc^{2}\\]\n\n\n\n\n\n\nLearn more about Latex math expressions"
+  },
+  {
+    "objectID": "quarto.html#videos",
+    "href": "quarto.html#videos",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "Videos",
+    "text": "Videos\n\nYou can include videos in documents using the {{&lt; video &gt;}} short code.\n\n\n\n\n\nCode\n{{&lt; video https://www.youtube.com/embed/wo9vZccmqwc &gt;}}\n\nOutput"
+  },
+  {
+    "objectID": "quarto.html#tables",
+    "href": "quarto.html#tables",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "Tables",
+    "text": "Tables\n\nMarkdown Syntax\n| Right | Left | Default | Center |\n|------:|:-----|---------|:------:|\n|   12  |  12  |    12   |    12  |\n|  123  |  123 |   123   |   123  |\n|    1  |    1 |     1   |     1  |\nOutput\n\n\n\nRight\nLeft\nDefault\nCenter\n\n\n\n\n12\n12\n12\n12\n\n\n123\n123\n123\n123\n\n\n1\n1\n1\n1"
+  }
+]

@@ -1,0 +1,687 @@
+---
+title: "[CREATING PROJECTS<br>USING RSTUDIO IDE]{.r-fit-text}"
+subtitle: "[2 Days Data Science Workshop at Institute of Development Studies, Jaipur (ICSSR)]{.r-fit-text}"
+author: "DR. AJAY KUMAR KOLI, PHD"
+pagetitle: "IDSJ"
+format: 
+  revealjs:
+    background-transition: convex
+    theme: [default, styles.scss]
+    execute: 
+      echo: true
+controls: true
+slide-number: true
+scrollable: true
+logo: images/logo.png
+incremental: true
+# theme: simple
+# bibliography: references.bib
+# theme: style.scss
+title-slide-attributes:
+  data-background-image: "https://images.unsplash.com/photo-1589304602243-e7f34d89fbd4?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  data-background-size: cover
+  data-background-color: black
+  data-background-opacity: "0.7"
+  data-background-position: top
+
+---
+
+# {background-image=images/logo_rstd.png background-size=50% background-color=teal}
+
+## 
+
+<br>
+<br>
+<br>
+<br>
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](images/logo_rstd.png)
+:::
+
+::: {.column width="50%"}
+"RStudio is an integrated development environment (IDE) for R and Python from company [posit](https://posit.co/)."
+:::
+
+::::
+
+## R and RStudio {.centering}
+
+<br>
+
+::: columns
+::: {.column width="50%"}
+### Imagine R as a powerful engine
+
+<br>
+
+[{{< fa gear size=7x >}}]{style="color:gray"}
+:::
+
+::: {.column width="50%"}
+### and RStudio as a stylish car
+
+<br>
+
+[{{< fa car size=7x >}}]{style="color:seagreen"}
+:::
+:::
+
+##
+
+![](images/logo_rstd.png){width=30%}
+
+- "It includes a console, syntax-highlighting editor that supports direct code execution, and tools for plotting, history, debugging, and workspace management."
+
+- [Download](https://posit.co/products/open-source/rstudio/) RStudio.
+
+::: aside
+Source: <https://posit.co/products/open-source/rstudio/>
+:::
+
+## RStudio IDE {background-color=black}
+
+![](images/rstd_ide.png){fig-align="center"}
+
+##  [RStudio $\rightarrow$ Tools $\rightarrow$ Global Options]{.r-fit-text .center} {background-color=black}
+
+![](images/rstd_options1.png){fig-align="center"}
+
+## [RStudio $\rightarrow$ Tools $\rightarrow$ Global Options]{.r-fit-text .center} {background-color=black}
+
+![](images/rstd_options2.png){fig-align="center"}
+
+## Open RStudio {background-color=black}
+
+![](images/rstd-proj.png){fig-align=center}
+
+## RStudio Without Project {background-color=black}
+
+![](images/rstd-proj-none.png){fig-align=center}
+
+## RStudio Without Project {background-color=black}
+
+![](images/rstd-proj-folders.png){fig-align=center}
+
+## RStudio Project Helps: {background-image="images/r-projects.jpg" background-size="55%" background-position="bottom right"}
+
+::: columns
+::: {.column width="100%"}
+-   "to divide your work into multiple contexts, each with their own"
+    -   working directory,
+    -   workspace,
+    -   history, and
+    -   source documents."
+:::
+:::
+
+::: aside
+Source: [RStudio](https://support.rstudio.com/hc/en-us/articles/200526207-Using-Projects) & artwork by [Allison Horst](https://www.allisonhorst.com/)
+:::
+
+# RStudio <br>Project <br>in 4 Steps {background-image=images/project-logo.png background-size=50% background-position=right background-color=teal}
+
+## Create RStudio project {background-color=black}
+
+![](images/rstd_proj1.png){fig-align=center}
+
+## Create RStudio project {background-color=black}
+
+![](images/rstd_proj2.png){fig-align=center}
+
+## In case anything goes wrong$...$ {background-color=black}
+
+![](images/rstd_proj3.1.png){fig-align=center}
+
+## Create RStudio Project {background-color=black}
+
+![](images/rstd_proj3.png){fig-align=center}
+
+## Create RStudio project {background-color=black}
+
+![](images/rstd_proj4.png){fig-align=center}
+
+## Create RStudio project {background-color=black}
+
+![](images/rstd_proj4a.png){fig-align=center}
+
+## Create RStudio project {background-color=black}
+
+![](images/rstd_proj4b.png){fig-align=center}
+
+## Create RStudio project {background-color=black}
+
+![](images/rstd_proj4c.png){fig-align=center}
+
+## RStudio project "name" {background-color=black}
+
+![](images/rstd_proj_name.png){fig-align=center}
+
+## RStudio project "path" {background-color=black}
+
+![](images/rstd_proj_path1.png){fig-align=center}
+
+## RStudio project {background-color=black}
+
+![](images/rstd_proj_path2.png){fig-align=center}
+
+# R<br>OBJECTS {background-image=images/heartyr.gif background-position=right background-size=50% background-color=teal}
+
+## Write codes in RStudio console {background-color=black}
+
+![](images/code-console.png){fig-align=center}
+
+## Write codes in R script {background-color=black}
+
+![](images/code-script.png){fig-align=center}
+
+## R script `.R`
+
+> Write codes in the R script $\rightarrow$ Console will show the results.
+
+-   Benefits of writing codes in R script:
+    -   You can save it for later use and revision.
+    -   You can share with others.
+    -   A better track of codes.
+
+## 💡 Tips for R script:
+
+1.  Writing readable code because other people might need to use your code.
+
+1.  Writing readable code because you might need to use your code, a few weeks/months/years after you've written it.
+
+1.  Put spaces between and around variable names and operators (`=+-*/`).
+
+1.  Break up long lines of code.
+
+1.  Keeping a consistent style.
+
+::: aside
+Source: [Marius Mather](https://bookdown.org/marius_mather/Rad/tips-for-effective-r-programming.html) also [Tomaž Kaštrun](https://tomaztsql.wordpress.com/2023/01/31/tips-for-organising-your-r-code/)
+:::
+
+## R Object
+
+- In R, **everything you create or work with is stored as an object.**
+
+- Objects can be numbers, text, data tables, functions, or even plots.
+
+- Think of an object as a **named container** that stores information in your R environment.
+
+## Create Object
+
+::: panel-tabset
+### Code
+
+```{r}
+#| label: age
+#| eval: false
+
+age <- c(23, 25, 16, 40, 34)
+
+age
+```
+
+### Output
+
+```{r}
+#| label: age
+#| output: asis
+#| echo: false 
+```
+:::
+
+## Assignment Operator
+
+<br>
+
+::: {.callout-important}
+R assignment operators: Assignment operators are used to assign values to variables.
+
+`object_name <- c(2, 3, 4, 5)`
+
+`object_name` 
+:::
+
+## Create object
+
+::: panel-tabset
+### Code
+
+```{r}
+#| label: income
+#| eval: false
+income <- c(23000, 25000, 16000, 4000, 34000)
+
+income
+```
+
+### Output
+
+```{r}
+#| label: income
+#| output: asis
+#| echo: false 
+```
+:::
+
+## Create object
+
+::: panel-tabset
+### Code
+
+```{r}
+#| label: name
+#| eval: false
+name <- c("Bhim", "Rama", "Sara", "Phule", "Savitri")
+
+name
+```
+
+### Output
+
+```{r}
+#| label: name
+#| output: asis
+#| echo: false 
+```
+:::
+
+## Create object
+
+::: panel-tabset
+### Code
+
+```{r}
+#| label: place
+#| eval: false
+place <- c("MH", "RJ", "DL", "HR", "HR")
+
+place
+```
+
+### Output
+
+```{r}
+#| label: place
+#| output: asis
+#| echo: false 
+```
+:::
+
+## Create object
+
+::: panel-tabset
+### Code
+
+```{r}
+#| label: weight
+#| eval: false
+weight_kg <- c(50, 52, 61, 40, 70)
+
+weight_kg
+```
+
+### Output
+
+```{r}
+#| label: weight
+#| output: asis
+#| echo: false 
+```
+:::
+
+## RStudio Environment Window
+
+<br>
+
+![](images/rstd-env.png){fig-align=center}
+
+## 💡Guidelines to "name" R Objects:
+
+-   A name cannot start with a number.
+
+-   A name cannot use some special symbols, like `^`, `!`, `$`, `@`, `+`, `-`, `/`, or `*`,`:`.
+
+-   Avoid caps.
+
+-   Avoid space.
+
+-   Use dash (like weight-kg) or underscore (like weight_kg).
+
+-   If chronology matters then add date (2020-09-05-file-name).
+
+
+## Basic Object Types 
+
+<br>
+
+| Type        | Description              | Example           |
+| ----------- | ------------------------ | ----------------- |
+| `numeric`   | Numbers (floating point) | `3.14`, `2`, `-5` |
+| `integer`   | Whole numbers            | `2L`, `100L`      |
+| `character` | Text strings             | `"R is great"`    |
+| `logical`   | Boolean values           | `TRUE`, `FALSE`   |
+
+## 🤔 How to combine all these objects and form a data set?
+
+👇 Something Like This 😻😻
+
+<br>
+
+```{r}
+#| echo: false
+
+example_df <- data.frame(name, income, age, place, weight_kg)
+
+example_df
+```
+
+## How to create a data object?
+
+::: panel-tabset
+### Code
+
+```{r}
+#| label: df
+#| eval: false
+example_df <- data.frame(name, income, age, place, weight_kg)
+
+example_df
+```
+
+### Output
+
+```{r}
+#| label: df
+#| output: true
+#| echo: false 
+```
+:::
+
+## Export data as a `csv` file
+
+::: panel-tabset
+### Code
+
+```{r}
+#| label: export-csv
+#| eval: false
+
+library(readr)
+
+# create a folder in wd & name it "data"
+write_csv(example_df, "data/example_df.csv") 
+```
+
+### Output
+
+```{r}
+#| label: export-csv
+#| output: asis
+#| echo: false 
+```
+
+To see the created file, check the "data" folder in your working directory.
+:::
+
+## List of all objects
+
+::: panel-tabset
+### Code
+
+```{r}
+#| label: objects-list
+#| eval: false
+
+objects()
+```
+
+### Output
+
+```{r}
+#| label: objects-list
+#| output: asis
+#| echo: false 
+```
+:::
+
+# R<br>Packages {background-image="https://miro.medium.com/v2/resize:fit:732/1*qVn_OyvyHA6AG2gaQkTXfA.png" background-size=50% background-position="right" background-color=teal}
+
+## R Packages 
+
+<br>
+
+> "An R package is a collection of **functions, data, and documentation** that extends the capabilities of base R. Using packages is key to the successful use of R."
+
+::: aside
+Source: [R for Data Science, 2e](https://r4ds.hadley.nz/intro)
+:::
+
+## Metacran {background-color=black}
+
+![](images/metacran.png)
+
+::: aside
+Source: [Metacran](https://www.r-pkg.org/)
+:::
+
+## R Packages
+
+1.  Install the R package
+
+2.  Call the R package
+
+3.  Update the R package
+
+4.  Remove the R package
+
+## Install Packages {background-color=black}
+
+![](images/pkg-download1.png){fig-align="center"}
+
+## Name of the Packages {background-color=black}
+
+![](images/pkg-download2.png){fig-align="center"}
+
+## Installed Packages {background-color=black}
+
+![](images/pkg-download3.png){fig-align="center"}
+
+## Function to Install Packages
+
+<br>
+
+```{r}
+#| eval: false
+
+install.packages("tidyverse")
+
+```
+
+
+## Function to Call Package
+
+<br>
+
+```{r}
+#| eval: false
+
+library(tidyverse)
+
+```
+
+
+## Using Packages
+
+-   You need to install package only once like:
+
+    -   📚 We buy books once and use them again and again
+
+    -   💡 Fix the bulb once and use it again and again.
+
+## Using Packages
+
+-   In every R document you need to **call once** the package using function `library()`, for example library(ggplot2).
+
+-   Once in a while, you need to update the installed packages as well.
+
+-   If you un-install R or RStudio, you will lose all installed packages.
+
+## Tools $\rightarrow$ Package Updates {.center}
+
+![](images/update-pkg1.png){fig-align="center"}
+
+## Select Packages to Update {.center}
+
+![](images/update-pkg2.png){fig-align="center"}
+
+## Click Install Updates {.center}
+
+![](images/update-pkg3.png){fig-align="center"}
+
+## To Remove Packages {.center}
+
+![](images/remove-pkg.png){fig-align="center"}
+
+# {.centering}
+
+[🧑🏽‍💻👨🏽‍💻<br>Question & Answer]{.r-fit-text}
+
+## 🤯 Your Turn {background-color=brown} 
+
+### 1. What is R mainly used for? 
+
+::: {.nonincremental}
+A) Web browsing.    
+B) Gaming.   
+C) Data analysis and statistics.    
+D) Drawing cartoons.    
+:::
+
+## 🤯 Your Turn {background-color=brown} 
+
+### 2. What is RStudio?
+
+::: {.nonincremental}
+A) A video editing software
+B) A web browser
+C) An integrated development environment (IDE) for R
+D) A spreadsheet tool    
+:::
+
+## 🤯 Your Turn {background-color=brown} 
+
+### 3. What will 2 + 3 return in R?
+
+::: {.nonincremental}
+A) 5
+B) 6
+C) 23
+D) Error    
+:::
+
+## 🤯 Your Turn {background-color=brown} 
+
+### 4. Which of the following is used to create a sequence in R?
+
+::: {.nonincremental}
+A) list()
+B) seq()
+C) loop()
+D) run()    
+:::
+
+## 🤯 Your Turn {background-color=brown} 
+
+### 5. Where do you usually type your code in RStudio?
+
+::: {.nonincremental}
+A) Console or Script Editor
+B) File Explorer
+C) Toolbar
+D) Help tab    
+:::
+
+## 🤩 Your Turn Answers {background-color=seagreen}
+
+1. Correct answer: C) Data analysis and statistics
+
+1. Correct answer: C) An integrated development environment (IDE) for R
+
+1. Correct answer: A) 5
+
+1. Correct answer: B) seq()
+
+1. Correct answer: A) Console or Script Editor
+
+## {background-image=images/logo_quarto.png background-size=25%}
+
+<!-- ## 🤯 Your Turn {background-color=brown}  -->
+
+<!-- ### 6. What symbol is used to assign a value to a variable in R? -->
+
+<!-- ::: {.nonincremental} -->
+<!-- A) = -->
+<!-- B) := -->
+<!-- C) <- -->
+<!-- D) == -->
+<!-- ::: -->
+
+<!-- ## 🤯 Your Turn {background-color=brown}  -->
+
+<!-- ### 7. Which function is used to view the structure of a dataset? -->
+
+<!-- ::: {.nonincremental} -->
+<!-- A) str() -->
+<!-- B) data() -->
+<!-- C) view() -->
+<!-- D) layout() -->
+<!-- ::: -->
+
+<!-- ## 🤯 Your Turn {background-color=brown}  -->
+
+<!-- ### 8. How do you read a CSV file into R? -->
+
+<!-- ::: {.nonincremental} -->
+<!-- A) read.excel() -->
+<!-- B) open.csv() -->
+<!-- C) read.csv() -->
+<!-- D) import() -->
+<!-- ::: -->
+
+<!-- ## 🤯 Your Turn {background-color=brown}  -->
+
+<!-- ### 9. Which package is commonly used for data visualization in R? -->
+
+<!-- ::: {.nonincremental} -->
+<!-- A) dplyr -->
+<!-- B) tidyr -->
+<!-- C) ggplot2 -->
+<!-- D) readr -->
+<!-- ::: -->
+
+<!-- ## 🤯 Your Turn {background-color=brown}  -->
+
+<!-- ### 10. What is the shortcut to run a line of code in RStudio (on Windows)? -->
+
+<!-- ::: {.nonincremental} -->
+<!-- A) Ctrl + C -->
+<!-- B) Ctrl + Enter -->
+<!-- C) Ctrl + R -->
+<!-- D) Ctrl + S -->
+<!-- ::: -->
+
+<!-- ## 🤩 Your Turn Answers {background-color=seagreen} -->
+
+<!-- 1. Correct answer: C) <- -->
+
+<!-- 1. Correct answer: A) str() -->
+
+<!-- 1. Correct answer: C) read.csv() -->
+
+<!-- 1. Correct answer: C) ggplot2 -->
+
+<!-- 1. Correct answer: B) Ctrl + Enter -->

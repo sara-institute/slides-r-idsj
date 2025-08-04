@@ -1,0 +1,39 @@
+/*-- scss:defaults --*/
+
+// cursive font style for hello and thank you.
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital@0;1&family=Sail&display=swap');
+
+//
+// Color system
+//
+$white:          #ffffff !default;
+$navy-blue:      #003366 !default;
+$theme-red:      #E7553C !default;
+$theme-blue:     #76AADB !default;
+
+
+$presentation-heading-color: $navy-blue;
+
+// link style.
+$link-color: $theme-red;
+$link-color-hover: lighten($link-color, 15%);
+$selection-bg: #007AF8;
+
+.theme-cursive {
+  font-family: 'Sail';
+  color: #003366;
+}
+
+
+// alignment 
+.centering {
+  text-align: center;
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}

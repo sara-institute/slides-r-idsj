@@ -1,0 +1,48 @@
+---
+title: "R for Beginners"
+subtitle: "6-7 August 2025 | IDS - Jaipur"
+author: "Dr. Ajay Kumar Koli"
+date: today
+affiliation-title: "Institute of Development Studies, Jaipur"
+format: html
+toc: true
+number-sections: true
+pagetitle: "IDSJ"
+title-block-banner: true
+---
+
+Hello 👋
+
+I’m Ajay, a data science educator at the [SARA Institute of Data Science](https://sara-edu.netlify.app/). I created this study material for my invited **two-day residential workshop on “R Programming”** for faculty and researchers at the **Institute of Development Studies, Jaipur**.
+
+If you find this material helpful, please consider supporting my work by **starring the repository on GitHub**. Your support motivates me to create and share more resources for the community.
+
+The background image used for each title slide is taken from [Unsplash by Aashish Pareek](https://unsplash.com/photos/brown-camel-on-brown-field-during-daytime-YnhxyA1RYjk) and background image for the last thank you slide is taken from [Unsplash by Pawel](https://unsplash.com/photos/pink-petaled-flower-MPaHCR6D7Po).
+
+<br>
+
+## Session: Introduction to R Programming Language
+
+{{< revealjs file="r-intro.html" height="500px" class="ratio ratio-16x9" >}}
+
+<br>
+
+## Session: Creating Projects using RStudio IDE
+
+{{< revealjs file="rstudio.html" height="500px" class="ratio ratio-16x9" >}}
+
+<br>
+
+## Session: Reproducible Research using Quarto
+
+{{< revealjs file="quarto.html" height="500px" class="ratio ratio-16x9" >}}
+
+<br>
+
+## Session: Data Visualization using ggplot2
+
+{{< revealjs file="viz.html" height="500px" class="ratio ratio-16x9" >}}
+
+<br>
+
+

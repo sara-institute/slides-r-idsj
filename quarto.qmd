@@ -1,0 +1,536 @@
+---
+title: "[REPRODUCIBLE RESEARCH<br>USING QUARTO]{.r-fit-text}"
+subtitle: "[2 Days Data Science Workshop at Institute of Development Studies, Jaipur (ICSSR)]{.r-fit-text}"
+author: "DR. AJAY KUMAR KOLI, PHD"
+pagetitle: "IDSJ"
+format: 
+  revealjs:
+    background-transition: convex
+    theme: [default, styles.scss]
+    execute: 
+      echo: true
+controls: true
+slide-number: true
+scrollable: true
+logo: images/logo.png
+incremental: true
+# theme: simple
+# bibliography: references.bib
+# theme: style.scss
+title-slide-attributes:
+  data-background-image: "https://images.unsplash.com/photo-1589304602243-e7f34d89fbd4?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  data-background-size: cover
+  data-background-color: black
+  data-background-opacity: "0.7"
+  data-background-position: top
+
+---
+
+## Quarto {background-image="https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/b041d35c-5117-4dd0-9b08-d2d0f7a77f9a.png?h=21528b7e9f1a2e24c9ec3d46cfca8653" background-size=cover}
+
+## Quarto
+
+> "An open-source scientific and technical publishing system"
+
+. . .
+
+Quarto can produce a wide variety of output formats:
+
+::: {.nonincremental .theme-red}
+[{{< fa square-check >}}]{style="color:seagreen"} Articles & Reports
+
+{{< fa square-check >}} Presentations
+
+[{{< fa square-check >}}]{style="color:seagreen"} Interactive Docs
+
+{{< fa square-check >}} Websites
+
+[{{< fa square-check >}}]{style="color:seagreen"} Books
+:::
+
+::: aside
+Source: [Quarto website](https://quarto.org/)
+:::
+
+##  [Analyze. Share. Reproduce.]{.r-fit-text} {background-color=black}
+
+<br>
+
+![](images/quarto_workflow.png){fig-align=center}
+
+## {background-image="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGkwdHR2aXlkZmNkbW14ampocDVwdGM2dXIyb3p1dmo5NnJjeTR6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4oMoIbIQrvCjm/giphy.gif" background-size="50%" background-position="right" background-color=black}
+
+:::: {.columns}
+
+::: {.column width="45%"}
+<br>
+[Article<br>Demo]{.r-fit-text}
+
+:::
+
+::::
+
+##  {background-image="images/dynamic-content1.png" background-size="contain" background-position="center" background-transition="fade"}
+
+##  {background-image="images/dynamic-content2.png" background-size="contain" background-position="center" background-transition="fade"}
+
+##  {background-image="images/dynamic-content3.png" background-size="contain" background-position="center" background-transition="fade"}
+
+##  {background-image="images/yaml_quarto.png" background-size="cover" background-position="center"}
+
+##  {background-image="images/text_quarto.png" background-size="cover" background-position="center"}
+
+##  {background-image="images/code_quarto.png" background-size="cover" background-position="center"}
+
+##  {background-image="images/render_quarto.png" background-size="cover" background-position="center"}
+
+## {background-image="images/render.png" background-size="contain"}
+
+## Quarto Workflow upon Rendering {background-color=black}
+
+<br>
+
+![](images/horst-qmd-render-schema.png){.r-stretch}
+
+## [Source Editor & Visual Editor]{.r-fit-text} {background-color=black}
+
+<br>
+
+![](images/spider.gif){fig-align=center}
+
+## Visual Editor {.center}
+
+![](images/visual_mode1.png)
+
+## Visual Editor {.center}
+
+![](images/visual_mode2.png){fig-align="center"}
+
+## Visual Editor {.center}
+
+![](images/visual_mode3.png){fig-align="center"}
+
+## Source Editor {.center}
+
+![](images/source_mode2.png){fig-align="center"}
+
+##  {background-image="images/source_visual_quarto.png" background-size="contain" background-position="center middle"}
+
+## {background-image="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGkwdHR2aXlkZmNkbW14ampocDVwdGM2dXIyb3p1dmo5NnJjeTR6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4oMoIbIQrvCjm/giphy.gif" background-size="50%" background-position="right" background-color=black}
+
+:::: {.columns}
+
+::: {.column width="45%"}
+<br>
+[Book<br>Demo]{.r-fit-text}
+
+:::
+
+::::
+
+## Text Formatting
+
+<br>
+
++-----------------------------------+-----------------------------------+
+| Markdown Syntax                   | Output                            |
++===================================+===================================+
+| ``` markdown                      | normal                            |
+| normal                            |                                   |
+| ```                               |                                   |
++===================================+===================================+
+| ``` markdown                      | *italics*                         |
+| *italics*                         |                                   |
+| ```                               |                                   |
++-----------------------------------+-----------------------------------+
+| ``` markdown                      | **bold**                          |
+| **bold**                          |                                   |
+| ```                               |                                   |
++-----------------------------------+-----------------------------------+
+| ``` markdown                      | ***bold italics***                |
+| ***bold italics***                |                                   |
+| ```                               |                                   |
++-----------------------------------+-----------------------------------+
+
+::: aside
+Source: [Quarto guide](https://quarto.org/docs/authoring/markdown-basics.html)
+:::
+
+## Text Formatting
+
+<br>
+
++-----------------------------------+-----------------------------------+
+| Markdown Syntax                   | Output                            |
++===================================+===================================+
+| ``` markdown                      | superscript^2^                    |
+| superscript^2^                    |                                   |
+| ```                               |                                   |
++===================================+===================================+
+| ``` markdown                      | subscript~2~                      |
+| subscript~2~                      |                                   |
+| ```                               |                                   |
++-----------------------------------+-----------------------------------+
+| ``` markdown                      | ~~strike through~~                |
+| ~~strike through~~                |                                   |
+| ```                               |                                   |
++-----------------------------------+-----------------------------------+
+| ``` markdown                      | `verbatim code`                   |
+| `verbatim code`                   |                                   |
+| ```                               |                                   |
++-----------------------------------+-----------------------------------+
+
+::: aside
+Source: [Quarto guide](https://quarto.org/docs/authoring/markdown-basics.html)
+:::
+
+## Headings {.scrollable}
+
+<br>
+
++-----------------+-----------------------------------+
+| Markdown Syntax | Output                            |
++=================+===================================+
+| ``` markdown    | # Header 1 {.heading-output}      |
+| # Header 1      |                                   |
+| ```             |                                   |
++-----------------+-----------------------------------+
+| ``` markdown    | ## Header 2 {.heading-output}     |
+| ## Header 2     |                                   |
+| ```             |                                   |
++-----------------+-----------------------------------+
+| ``` markdown    | ### Header 3 {.heading-output}    |
+| ### Header 3    |                                   |
+| ```             |                                   |
++-----------------+-----------------------------------+
+| ``` markdown    | #### Header 4 {.heading-output}   |
+| #### Header 4   |                                   |
+| ```             |                                   |
++-----------------+-----------------------------------+
+| ``` markdown    | ##### Header 5 {.heading-output}  |
+| ##### Header 5  |                                   |
+| ```             |                                   |
++-----------------+-----------------------------------+
+| ``` markdown    | ###### Header 6 {.heading-output} |
+| ###### Header 6 |                                   |
+| ```             |                                   |
++-----------------+-----------------------------------+
+
+## Add References
+
+1. Create a Bibliography File (.bib)
+
+1. Add Metadata to Your Quarto Document
+
+1. Cite Sources in Your Text
+
+1. Add a References Section
+
+1. Render the Document
+
+## Insert Links {.scrollable}
+
+<br>
+
++--------------------------------------+--------------------------------------+
+| Markdown syntax                      | Output                               |
++======================================+======================================+
+| ``` markdown                         | <https://saraedu.netlify.app/>       |
+| <https://saraedu.netlify.app/>       |                                      |
+| ```                                  |                                      |
++--------------------------------------+--------------------------------------+
+
+## Insert Links {.scrollable}
+
+<br>
+
++----------------------------------------+--------------------------------------+
+| Markdown syntax                        | Output                               |
++========================================+======================================+
+| ``` markdown                           | [SARA](https://saraedu.netlify.app/) |
+| [SARA](https://saraedu.netlify.app/)   |                                      |
+| ```                                    |                                      |
++----------------------------------------+--------------------------------------+
+
+## Add Images from PC {.scrollable}
+
+> If image is saved in your computer, <br>`![](add image path here)`
+
+. . .
+
+<br>
+
++-------------------------+-----------------------+
+| Markdown Syntax         | Output                |
++=========================+=======================+
+| ``` markdown            | ![](images/ajay.png)  |
+| ![](images/ajay.png)    |                       |
+| ```                     |                       |
++-------------------------+-----------------------+
+
+## Add Online Images {.scrollable}
+
+> If image is taken from the internet, <br>`![](add image link here)`
+
+. . .
+
+<br>
+
+:::: {.columns}
+
+::: {.column width="70%"}
+
+``` markdown                                                 
+![](https://images.unsplash.com/photo-1627130595904-ebeeb6540a93?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+```
+
+:::
+
+::: {.column width="30%"}
+![](https://images.unsplash.com/photo-1627130595904-ebeeb6540a93?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D){width=70%}
+:::
+
+::::
+
+## Unordered List {.scrollable} 
+
+<br>
+
+::: nonincremental
+
++-------------------------+---------------------------------+
+| Markdown Syntax         | Output                          |
++=========================+=================================+
+| ``` markdown            |                                 |
+| * Item 1                | * Item 1                        |
+| * Item 2                | * Item 2                        |
+| * Item 3                | * Item 3                        |
+| ```                     |                                 |
++-------------------------+---------------------------------+
+
+:::
+
+## Unordered List: Sub-items {.scrollable} 
+
+<br>
+
+::: nonincremental
+
++-----------------------------------+---------------------------------+
+| Markdown Syntax                   | Output                          |
++===================================+=================================+
+| ``` markdown                      |                                 |
+| * Main items                      | * Main items                    |
+|     + Sub-item 1                  |     + Sub-item 1                |
+|     + Sub-item 2                  |     + Sub-item 2                |
+|         - Sub-sub-item 1          |         - Sub-sub-item 1        |
+| ```                               |                                 |
++-----------------------------------+---------------------------------+
+
+:::
+
+
+## Ordered List {.scrollable} 
+
+<br>
+
+::: nonincremental
+
++-----------------------------------+---------------------------------+
+| Markdown Syntax                   | Output                          |
++===================================+=================================+
+| ``` markdown                      |                                 |
+| 1. Eggs                           |  1. Eggs                        |
+| 1. Tea                            |  1. Tea                         |
+| 1. Fish                           |  1. Fish                        |
+| 1. Milk                           |  1. Milk                        |
+| ```                               |                                 |
++-----------------------------------+---------------------------------+
+
+:::
+
+## List {.scrollable} 
+
+<br>
+
+::: nonincremental
+
++-----------------------------------+---------------------------------+
+| Markdown Syntax                   | Output                          |
++===================================+=================================+
+| ``` markdown                      |                                 |
+| (@)  A list whose numbering       |  (1) A list whose numbering     |
+|                                   |                                 |
+| continues after                   |  continues after                |
+|                                   |                                 |
+| (@)  an interruption              |  (2) an interruption            |
+| ```                               |                                 |
++-----------------------------------+---------------------------------+
+
+:::
+
+## List {.scrollable visibility="hidden"} 
+
+<br>
+
+::: nonincremental
+
++-----------------------------------+---------------------------------+
+| Markdown Syntax                   | Output                          |
++===================================+=================================+
+| ``` markdown                      |                                 |
+| ::: {}                            | ::: {}                          |
+| 1. A list                         | 1. A list                       |
+| :::                               | :::                             |
+|                                   |                                 |
+| ::: {}                            | ::: {}                          |
+| 1. Followed by another list       | 1. Followed by another list     |
+| :::                               | :::                             |
+| ```                               |                                 |
++-----------------------------------+---------------------------------+
+
+:::
+
+## Definition {.scrollable visibility="hidden"} 
+
+```markdown
+term
+: definition
+```
+
+. . .
+
+<br>
+
+::: nonincremental
+
++-----------------------------------+---------------------------------+
+| Markdown Syntax                   | Output                          |
++===================================+=================================+
+|                                   | Power                           |
+| ```markdown                       | : Power is power.               |
+| Power                             |                                 |
+| : Power is power.                 |                                 |
+| ```                               |                                 |
++-----------------------------------+---------------------------------+
+
+:::
+
+## Equations
+
+> Use `$` delimiters for inline math.
+
+<br>
+
+. . .
+
++-------------------------------------+-----------------------------------+
+| Markdown Syntax                     | Output                            |
++=====================================+===================================+
+| ``` markdown                        |                                   |
+| It is a great equation $E = mc^{2}$ | It is a great equation $E=mc^{2}$ |
+| ```                                 |                                   |
++-------------------------------------+-----------------------------------+
+
+::: aside
+From Rice University [Latex Mathematical Symbols](https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf) 
+:::
+
+## Equations
+
+> Use `$$` delimiters for display math.
+
+<br>
+
+. . .
+
++---------------------------------------+-------------------------------------+
+| Markdown Syntax                       | Output                              |
++=======================================+=====================================+
+| ``` markdown                          |                                     |
+| It is a great equation $$E = mc^{2}$$ | It is a great equation $$E=mc^{2}$$ |
+| ```                                   |                                     |
++---------------------------------------+-------------------------------------+
+
+::: aside
+Learn more about [Latex](https://www.overleaf.com/learn/latex/Mathematical_expressions) math expressions
+:::
+
+## In-line coding {visibility="hidden"} 
+
+> `` `r ` ``
+
+<br>
+
+. . .
+
+:::: {.columns}
+
+::: {.column width="60%"}
+### Code
+
+`` `r knitr::inline_expr("1+1")` ``
+:::
+
+::: {.column width="40%"}
+
+### Output
+
+`r sqrt(9)`
+
+:::
+
+::::
+
+## Videos
+
+> You can include videos in documents using the <br>`{{{< video >}}}` short code.
+
+<br>
+
+. . .
+
+:::: {.columns}
+
+::: {.column width="70%"}
+### Code
+
+``` {.markdown shortcodes="false"}
+{{< video https://www.youtube.com/embed/wo9vZccmqwc >}}
+```
+:::
+
+::: {.column width="30%"}
+### Output
+
+{{< video https://www.youtube.com/embed/wo9vZccmqwc >}}
+:::
+
+::::
+
+## Tables {.scrollable}
+
+<br>
+
+#### Markdown Syntax
+
+``` markdown
+| Right | Left | Default | Center |
+|------:|:-----|---------|:------:|
+|   12  |  12  |    12   |    12  |
+|  123  |  123 |   123   |   123  |
+|    1  |    1 |     1   |     1  |
+```
+
+#### Output
+
+| Right | Left | Default | Center |
+|------:|:-----|---------|:------:|
+|    12 | 12   | 12      |   12   |
+|   123 | 123  | 123     |  123   |
+|     1 | 1    | 1       |   1    |
+
+
+# {.centering}
+
+[🧑🏽‍💻👨🏽‍💻<br>Question & Answer]{.r-fit-text}

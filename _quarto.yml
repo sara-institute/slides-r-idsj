@@ -1,0 +1,42 @@
+project:
+  type: website
+  preview:
+    browser: true
+ 
+website:
+  title: "R for Beginners"
+  #favicon: images/icon.png
+  # twitter-card: 
+  #   creator: "@sara_institute"
+  #   site: "@sara_institute"
+  #   card-style: summary_large_image
+  #   image: social-default.png
+  # site-url: https://sara-course-r4b.netlify.app/
+  
+
+  # navbar:
+  #   logo: images/logo-sara.png
+    
+    # right:
+    #   - icon: github
+    #     href: https://github.com/sara-institute
+    #   - text: "{{< iconify fa6-brands bluesky >}}"
+    #     href: https://bsky.app/profile/sarainstitute.bsky.social
+    #   - icon: linkedin
+    #     href: "https://www.linkedin.com/company/104133989/admin/dashboard/"
+    #   - icon: youtube
+    #     href: "https://www.youtube.com/@SARADataScience"
+
+format:
+  html:
+    theme: cosmo
+  
+    
+    
+    
+
+    
+    
+  
+    
+    
