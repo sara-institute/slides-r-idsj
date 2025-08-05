@@ -1,5 +1,5 @@
 ---
-title: "[INTRODUCTION TO R<br>PROGRAMMING LANGUAGE]{.r-fit-text}"
+title: "[INTRODUCTION TO<br>R PROGRAMMING LANGUAGE]{.r-fit-text}"
 subtitle: "[2 Days Data Science Workshop at Institute of Development Studies, Jaipur (ICSSR)]{.r-fit-text}"
 author: "DR. AJAY KUMAR KOLI, PHD"
 pagetitle: "IDSJ"
@@ -12,7 +12,7 @@ format:
 controls: true
 slide-number: true
 scrollable: true
-logo: images/logo.png
+logo: images/logo-idsj.png
 incremental: true
 # theme: simple
 # bibliography: references.bib

@@ -450,280 +450,280 @@
   {
     "objectID": "r-intro.html#hello-everyone",
     "href": "r-intro.html#hello-everyone",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "Hello! Everyone",
     "text": "Hello! Everyone\n\n\n\n\n\n\n\n\n\n\n\n\nData Science Educator at SARA Institute"
   },
   {
     "objectID": "r-intro.html#data-science-project",
     "href": "r-intro.html#data-science-project",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "Data Science Project",
     "text": "Data Science Project\n\n\n\n\n\n\n\n\nSource: R for Data Science (2e)"
   },
   {
     "objectID": "r-intro.html#r-programming-language",
     "href": "r-intro.html#r-programming-language",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "R Programming Language",
     "text": "R Programming Language\n \n\n\n\n\n\n“R is a free software environment for statistical computing and graphics.”\n\n\n\nSource: R Project Website"
   },
   {
     "objectID": "r-intro.html#history-of-r",
     "href": "r-intro.html#history-of-r",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "History of R",
     "text": "History of R\n\nInitially developed as S language by Bell Laboratories.\nFirst appeared in August 1993 as R language by:\n\n\n\n\n\n\n\n\nRoss Ihaka, New Zealand Statistician\n\n\n\n\n\n\n\nRobert Gentleman, Canadian Statistician"
   },
   {
     "objectID": "r-intro.html#download-r-from-cran",
     "href": "r-intro.html#download-r-from-cran",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "Download R from CRAN",
     "text": "Download R from CRAN\nhttps://www.r-project.org/"
   },
   {
     "objectID": "r-intro.html#r-console",
     "href": "r-intro.html#r-console",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "R Console",
     "text": "R Console\n\n\n\n\nR version 4.5.0 (2025-04-11)\nR name “How About a Twenty-Six”\nR licence “ABSOLUTELY NO WARRANTY”\nR prompt &gt;"
   },
   {
     "objectID": "r-intro.html#workspace-image",
     "href": "r-intro.html#workspace-image",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "Workspace Image",
     "text": "Workspace Image\n\n\n\n\nDon’t save workspace image.\nIt helps in “freshly minted R sessions”.\n“put more trust in your script than in your memory”.\n\n\n\n\n\n\n\n\n\n\nSource: R Bloggers"
   },
   {
     "objectID": "r-intro.html#r-console-1",
     "href": "r-intro.html#r-console-1",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "R Console",
     "text": "R Console\n\n\n\nCode\n\n7\n\n\nOutput\n[1] 7"
   },
   {
     "objectID": "r-intro.html#r-console-addition",
     "href": "r-intro.html#r-console-addition",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "R Console: Addition",
     "text": "R Console: Addition\n\n\n\nCode\n\n2 + 1\n\n\nOutput\n[1] 3"
   },
   {
     "objectID": "r-intro.html#operators",
     "href": "r-intro.html#operators",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "Operators",
     "text": "Operators\n\n12 + 3 in this code + is an operator.\n\n\n\n“Operators are used to perform operations on variables and values.”\n\n\n\n\nSource: w3schools"
   },
   {
     "objectID": "r-intro.html#arithmetic-operators",
     "href": "r-intro.html#arithmetic-operators",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "Arithmetic Operators",
     "text": "Arithmetic Operators\n\n\n“Arithmetic operators are used with numeric values to perform common mathematical operations.”"
   },
   {
     "objectID": "r-intro.html#arithmetic-operators-1",
     "href": "r-intro.html#arithmetic-operators-1",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "Arithmetic Operators",
     "text": "Arithmetic Operators\n\n\n\n\nOperator\nName\nExample\n\n\n\n\n+\nAddition\nx + y\n\n\n-\nSubtraction\nx - y\n\n\n*\nMultiplication\nx * y\n\n\n/\nDivision\nx / y\n\n\n^\nExponent\nx ^ y\n\n\n\n\n\nSource: w3schools"
   },
   {
     "objectID": "r-intro.html#r-console-subtraction",
     "href": "r-intro.html#r-console-subtraction",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "R Console: Subtraction",
     "text": "R Console: Subtraction\n\n\n\nCode\n\n10 - 2\n\n\nOutput\n[1] 8"
   },
   {
     "objectID": "r-intro.html#r-console-multiplication",
     "href": "r-intro.html#r-console-multiplication",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "R Console: Multiplication",
     "text": "R Console: Multiplication\n\n\n\nCode\n\n12 * 4\n\n\nOutput\n[1] 48"
   },
   {
     "objectID": "r-intro.html#r-console-division",
     "href": "r-intro.html#r-console-division",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "R Console: Division",
     "text": "R Console: Division\n\n\n\nCode\n\n25 / 5\n\n\nOutput\n[1] 5"
   },
   {
     "objectID": "r-intro.html#r-console-2",
     "href": "r-intro.html#r-console-2",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "R Console",
     "text": "R Console\n\n\n\nCode\n\n3434 + 343453 * 2323 / 534 - 1000\n\n\nOutput\n[1] 1496519\n \n\n\n\n\n\nImportant\n\n\nR follows the BODMAS (bracket, order, division, multiplication, addition and subtraction) rule to solve mathematical equations."
   },
   {
     "objectID": "r-intro.html#r-comparison-operators",
     "href": "r-intro.html#r-comparison-operators",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "R Comparison Operators",
     "text": "R Comparison Operators\n\n\n“Comparison operators are used to compare two values.”"
   },
   {
     "objectID": "r-intro.html#r-comparison-operators-1",
     "href": "r-intro.html#r-comparison-operators-1",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "R Comparison Operators",
     "text": "R Comparison Operators\n\n\n\n\nOperator\nName\nExample\n\n\n\n\n==\nEqual\nx == y\n\n\n!=\nNot equal\nx != y\n\n\n&gt;\nGreater than\nx &gt; y\n\n\n&lt;\nLess than\nx &lt; y\n\n\n&gt;=\nGreater than or equal to\nx &gt;= y\n\n\n&lt;=\nLess than or equal to\nx &lt;= y"
   },
   {
     "objectID": "r-intro.html#r-console-3",
     "href": "r-intro.html#r-console-3",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "R Console",
     "text": "R Console\n\n\n\nCode\n\n4 == 5\n\n\nOutput\n[1] FALSE"
   },
   {
     "objectID": "r-intro.html#r-console-4",
     "href": "r-intro.html#r-console-4",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "R Console",
     "text": "R Console\n\n\n\nCode\n\n67 &gt; 60\n\n\nOutput\n[1] TRUE"
   },
   {
     "objectID": "r-intro.html#r-miscellaneous-operator",
     "href": "r-intro.html#r-miscellaneous-operator",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "R Miscellaneous Operator",
     "text": "R Miscellaneous Operator\n\n“Miscellaneous operators are used to manipulate data.”\n\n\n\n\n\nCode\n\n12:36\n\n\nOutput\n[1] 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36\n\n\n\n\nSource: w3schools"
   },
   {
     "objectID": "r-intro.html#what-if-we-want-to-add-all-these-values-in-r",
     "href": "r-intro.html#what-if-we-want-to-add-all-these-values-in-r",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "What if we want to add all these values in R?",
     "text": "What if we want to add all these values in R?\n\n[1] 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36"
   },
   {
     "objectID": "r-intro.html#r-function",
     "href": "r-intro.html#r-function",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "R Function",
     "text": "R Function\n\n“A function, in a programming environment, is a set of instructions.”\n“A programmer builds a function to avoid repeating the same task, or reduce complexity.”"
   },
   {
     "objectID": "r-intro.html#r-function-1",
     "href": "r-intro.html#r-function-1",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "R Function",
     "text": "R Function\n\nCodeOutput\n\n\n\nsum(2, 4, 6) \n\n\n\n[1] 12"
   },
   {
     "objectID": "r-intro.html#structure-of-a-r-function",
     "href": "r-intro.html#structure-of-a-r-function",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "Structure of a R function",
     "text": "Structure of a R function"
   },
   {
     "objectID": "r-intro.html#structure-of-a-r-function-1",
     "href": "r-intro.html#structure-of-a-r-function-1",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "Structure of a R function",
     "text": "Structure of a R function"
   },
   {
     "objectID": "r-intro.html#structure-of-a-r-function-2",
     "href": "r-intro.html#structure-of-a-r-function-2",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "Structure of a R function",
     "text": "Structure of a R function"
   },
   {
     "objectID": "r-intro.html#structure-of-a-r-function-3",
     "href": "r-intro.html#structure-of-a-r-function-3",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "Structure of a R function",
     "text": "Structure of a R function"
   },
   {
     "objectID": "r-intro.html#structure-of-a-r-function-4",
     "href": "r-intro.html#structure-of-a-r-function-4",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "Structure of a R function",
     "text": "Structure of a R function"
   },
   {
     "objectID": "r-intro.html#r-function-sum",
     "href": "r-intro.html#r-function-sum",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "R Function sum()",
     "text": "R Function sum()\n\nCodeOutput\n\n\n\nsum(12:36) \n\n\n\n[1] 600"
   },
   {
     "objectID": "r-intro.html#round-function",
     "href": "r-intro.html#round-function",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "Round function",
     "text": "Round function\n\nCodeOutput\n\n\nFunction with default argument.\n\nround(x = 42.58756)\n\nor\n\nround(42.58756)\n\n\n\n[1] 43\nor\n[1] 43"
   },
   {
     "objectID": "r-intro.html#round-function-1",
     "href": "r-intro.html#round-function-1",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "Round function",
     "text": "Round function\n\nCodeOutput\n\n\nFunction with a specific value of an argument.\n\nround(x = 46.58754, digits = 2)\n\nor\n\nround(46.58754, 2)\n\n\n\n[1] 46.59\nor\n[1] 46.59"
   },
   {
     "objectID": "r-intro.html#square-root-function",
     "href": "r-intro.html#square-root-function",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "Square Root Function",
     "text": "Square Root Function\n\nCodeOutput\n\n\nFunction with a specific value of an argument.\n\nsqrt(x = 9)\n\n\n\n[1] 3"
   },
   {
     "objectID": "r-intro.html#sequence-function",
     "href": "r-intro.html#sequence-function",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "Sequence Function",
     "text": "Sequence Function\n\nCodeOutput\n\n\nFunction with a specific value of an argument.\n\nseq.int(from = 10, to = 30, by = 5)\n\nor\n\nseq.int(from = 10,\n        to = 30,\n        by = 5)\n\nor\n\nseq.int(10, 30, 5)\n\n\n\n[1] 10 15 20 25 30\nor\n[1] 10 15 20 25 30\nor\n[1] 10 15 20 25 30"
   },
   {
     "objectID": "r-intro.html#plot-using-r",
     "href": "r-intro.html#plot-using-r",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "Plot using R",
     "text": "Plot using R\n\nCodeOutput\n\n\n\nplot(1:100)"
   },
   {
     "objectID": "r-intro.html#create-function",
     "href": "r-intro.html#create-function",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "Create Function",
     "text": "Create Function\n– reusable set of instructions\n\nadd &lt;- function(x, y) {\n  return(x + y)\n}\n\nadd(3, 4)   # Output: 7\n\n[1] 7"
   },
   {
     "objectID": "r-intro.html#getting-help-with-r",
     "href": "r-intro.html#getting-help-with-r",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "Getting Help with R",
     "text": "Getting Help with R\n\nThe help() function and ? help operator in R.\nUse args() function to the get the list of arguments of a function.\n\n\n\nR Website"
   },
   {
     "objectID": "r-intro.html#your-turn",
     "href": "r-intro.html#your-turn",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "🤯 Your Turn",
     "text": "🤯 Your Turn\n\n\n\n−+\n15:00\n\n\n\n\nAdd two numbers: 15 + 27\nCreate a sequence of numbers from 1 to 10\nCreate a sequence from 5 to 50, increasing by 5\nFind the square root of 81\nRound the number 3.786 to 2 decimal places"
   },
   {
     "objectID": "r-intro.html#your-turn-1",
     "href": "r-intro.html#your-turn-1",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "🤩 Your Turn",
     "text": "🤩 Your Turn\n\nAdd two numbers: 15 + 27, 15 + 27\nCreate a sequence of numbers from 1 to 10, seq(1, 10)\nCreate a sequence from 5 to 50, increasing by 5, seq(5, 50, by = 5)\nFind the square root of 81, sqrt(81)\nRound the number 3.786 to 2 decimal places, round(3.786, 2)"
   },
   {
     "objectID": "r-intro.html#thats-okay-but-how-to",
     "href": "r-intro.html#thats-okay-but-how-to",
-    "title": "INTRODUCTION TO RPROGRAMMING LANGUAGE",
+    "title": "INTRODUCTION TOR PROGRAMMING LANGUAGE",
     "section": "😏 That’s okay but how to …",
     "text": "😏 That’s okay but how to …\n\ncombine plot, text, tables and images in a single file,\npublish my work online or convert into a word, pdf or html file, and\nwork efficiently with my different projects and save, share and track them."
   },
@@ -980,6 +980,48 @@
     "text": "Export Plot\n\nTaskCodeOutput\n\n\n\nExport/save plot as pdf, jpg or png file.\n\n\n\n\nggplot(data = penguins,\n       mapping = aes(x = bill_length_mm, y = bill_depth_mm)) +\n  geom_point(aes(color = species, shape = species)) +\n  labs(\n    title = \"The title of the plot\",\n    subtitle = \"The subtitle of the plot\",\n    x = \"Bill length (mm)\",\n    y = \"Bill depth (mm)\"\n  ) +\n  theme_clean() +\n  scale_color_manual(values = wes_palette(\"BottleRocket2\", n = 3))\n\nggsave(\"penguins-plot.pdf\")\n\n\n\n\n\n\n\n\n\n\n\nFigure 24"
   },
   {
+    "objectID": "viz.html#your-turn-4",
+    "href": "viz.html#your-turn-4",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "🤯 Your Turn",
+    "text": "🤯 Your Turn\n1. What is ggplot2 used for in R?\n\nData cleaning\nData visualization\nText mining\nMachine learning"
+  },
+  {
+    "objectID": "viz.html#your-turn-5",
+    "href": "viz.html#your-turn-5",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "🤯 Your Turn",
+    "text": "🤯 Your Turn\n2. In ggplot2, the function aes() is used for:\n\nLoading data\nMapping variables to aesthetics like x, y, color\nSaving plots as images\nApplying statistical models"
+  },
+  {
+    "objectID": "viz.html#your-turn-6",
+    "href": "viz.html#your-turn-6",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "🤯 Your Turn",
+    "text": "🤯 Your Turn\n3. Which function is used to create a scatter plot in ggplot2?\n\ngeom_bar()\ngeom_line()\ngeom_point()\ngeom_boxplot()"
+  },
+  {
+    "objectID": "viz.html#your-turn-7",
+    "href": "viz.html#your-turn-7",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "🤯 Your Turn",
+    "text": "🤯 Your Turn\n4. In ggplot2, theme_minimal() is used to:\n\nFilter the dataset\nApply a clean, minimal plot style\nAdd a legend\nChange axis limits"
+  },
+  {
+    "objectID": "viz.html#your-turn-8",
+    "href": "viz.html#your-turn-8",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "🤯 Your Turn",
+    "text": "🤯 Your Turn\n5. Which package must be loaded to use ggplot2 functions?\n\ndplyr\nggplot2\ntidyr\nplotly"
+  },
+  {
+    "objectID": "viz.html#your-turn-answers",
+    "href": "viz.html#your-turn-answers",
+    "title": "DATA VISUALIZATIONUSING GGPLOT",
+    "section": "🤩 Your Turn Answers",
+    "text": "🤩 Your Turn Answers\n\nCorrect answer: B) Data visualization\nCorrect answer: B) Mapping variables to aesthetics like x, y, color\nCorrect answer: C) geom_point()\nCorrect answer: B) Apply a clean, minimal plot style\nCorrect answer: B) ggplot2"
+  },
+  {
     "objectID": "quarto.html#quarto",
     "href": "quarto.html#quarto",
     "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
@@ -1167,5 +1209,47 @@
     "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
     "section": "Tables",
     "text": "Tables\n\nMarkdown Syntax\n| Right | Left | Default | Center |\n|------:|:-----|---------|:------:|\n|   12  |  12  |    12   |    12  |\n|  123  |  123 |   123   |   123  |\n|    1  |    1 |     1   |     1  |\nOutput\n\n\n\nRight\nLeft\nDefault\nCenter\n\n\n\n\n12\n12\n12\n12\n\n\n123\n123\n123\n123\n\n\n1\n1\n1\n1"
+  },
+  {
+    "objectID": "quarto.html#your-turn",
+    "href": "quarto.html#your-turn",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "🤯 Your Turn",
+    "text": "🤯 Your Turn\n1. What is Quarto primarily used for?\n\nVideo editing\nScientific and technical publishing\nSocial media posting\nWeb scraping"
+  },
+  {
+    "objectID": "quarto.html#your-turn-1",
+    "href": "quarto.html#your-turn-1",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "🤯 Your Turn",
+    "text": "🤯 Your Turn\n2. Which programming languages can be used with Quarto documents?\n\nOnly R\nOnly Python\nR, Python, Julia, and others\nOnly Julia"
+  },
+  {
+    "objectID": "quarto.html#your-turn-2",
+    "href": "quarto.html#your-turn-2",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "🤯 Your Turn",
+    "text": "🤯 Your Turn\n3. Which file extension is used for Quarto source files?\n\n.qmd\n.rmd\n.txt\n.docx"
+  },
+  {
+    "objectID": "quarto.html#your-turn-3",
+    "href": "quarto.html#your-turn-3",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "🤯 Your Turn",
+    "text": "🤯 Your Turn\n4. What is one key feature of Quarto compared to R Markdown?\n\nIt cannot generate PDFs\nIt supports multiple programming languages in the same document\nIt only works online\nIt cannot create slides"
+  },
+  {
+    "objectID": "quarto.html#your-turn-4",
+    "href": "quarto.html#your-turn-4",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "🤯 Your Turn",
+    "text": "🤯 Your Turn\n5. Which command is used to render a Quarto document from the terminal?\n\nquarto publish\nquarto render\nquarto knit\nquarto compile"
+  },
+  {
+    "objectID": "quarto.html#your-turn-answers",
+    "href": "quarto.html#your-turn-answers",
+    "title": "REPRODUCIBLE RESEARCHUSING QUARTO",
+    "section": "🤩 Your Turn Answers",
+    "text": "🤩 Your Turn Answers\n\nCorrect answer: B) Scientific and technical publishing\nCorrect answer: C) R, Python, Julia, and others\nCorrect answer: A) .qmd\nCorrect answer: B) It supports multiple programming languages in the same document\nCorrect answer: B) quarto render"
   }
 ]

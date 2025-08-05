@@ -12,7 +12,7 @@ format:
 controls: true
 slide-number: true
 scrollable: true
-logo: images/logo.png
+logo: images/logo-idsj.png
 incremental: true
 # theme: simple
 # bibliography: references.bib
@@ -534,3 +534,70 @@ Learn more about [Latex](https://www.overleaf.com/learn/latex/Mathematical_expre
 # {.centering}
 
 [🧑🏽‍💻👨🏽‍💻<br>Question & Answer]{.r-fit-text}
+
+## 🤯 Your Turn {background-color=brown} 
+
+### 1. What is Quarto primarily used for?
+
+::: {.nonincremental}
+A) Video editing
+B) Scientific and technical publishing
+C) Social media posting
+D) Web scraping  
+:::
+
+## 🤯 Your Turn {background-color=brown} 
+
+### 2. Which programming languages can be used with Quarto documents?
+
+::: {.nonincremental}
+A) Only R
+B) Only Python
+C) R, Python, Julia, and others
+D) Only Julia  
+:::
+
+## 🤯 Your Turn {background-color=brown} 
+
+### 3. Which file extension is used for Quarto source files?
+
+::: {.nonincremental}
+A) .qmd
+B) .rmd
+C) .txt
+D) .docx  
+:::
+
+## 🤯 Your Turn {background-color=brown} 
+
+### 4. What is one key feature of Quarto compared to R Markdown?
+
+::: {.nonincremental}
+A) It cannot generate PDFs
+B) It supports multiple programming languages in the same document
+C) It only works online
+D) It cannot create slides  
+:::
+
+## 🤯 Your Turn {background-color=brown} 
+
+### 5. Which command is used to render a Quarto document from the terminal?
+
+::: {.nonincremental}
+A) quarto publish
+B) quarto render
+C) quarto knit
+D) quarto compile  
+:::
+
+## 🤩 Your Turn Answers {background-color=seagreen}
+
+1. Correct answer: B) Scientific and technical publishing
+
+1. Correct answer: C) R, Python, Julia, and others
+
+1. Correct answer: A) .qmd
+
+1. Correct answer: B) It supports multiple programming languages in the same document
+
+1. Correct answer: B) quarto render

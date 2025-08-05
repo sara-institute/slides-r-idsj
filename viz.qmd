@@ -12,7 +12,7 @@ format:
 controls: true
 slide-number: true
 scrollable: true
-logo: images/logo.png
+logo: images/logo-idsj.png
 incremental: true
 # theme: simple
 # bibliography: references.bib
@@ -1006,6 +1006,74 @@ ggsave("penguins-plot.pdf")
 # {.centering}
 
 [🧑🏽‍💻👨🏽‍💻<br>Question & Answer]{.r-fit-text}
+
+## 🤯 Your Turn {background-color=brown} 
+
+### 1. What is ggplot2 used for in R?
+
+::: {.nonincremental}
+A) Data cleaning
+B) Data visualization
+C) Text mining
+D) Machine learning  
+:::
+
+## 🤯 Your Turn {background-color=brown} 
+
+### 2.  In ggplot2, the function aes() is used for:
+
+::: {.nonincremental}
+A) Loading data
+B) Mapping variables to aesthetics like x, y, color
+C) Saving plots as images
+D) Applying statistical models  
+:::
+
+## 🤯 Your Turn {background-color=brown} 
+
+### 3. Which function is used to create a scatter plot in ggplot2?
+
+::: {.nonincremental}
+A) geom_bar()
+B) geom_line()
+C) geom_point()
+D) geom_boxplot()  
+:::
+
+## 🤯 Your Turn {background-color=brown} 
+
+### 4. In ggplot2, theme_minimal() is used to:
+
+::: {.nonincremental}
+A) Filter the dataset
+B) Apply a clean, minimal plot style
+C) Add a legend
+D) Change axis limits
+
+:::
+## 🤯 Your Turn {background-color=brown} 
+
+### 5. Which package must be loaded to use ggplot2 functions?
+
+::: {.nonincremental}
+A) dplyr
+B) ggplot2
+C) tidyr
+D) plotly  
+:::
+
+## 🤩 Your Turn Answers {background-color=seagreen}
+
+1. Correct answer: B) Data visualization
+
+1. Correct answer: B) Mapping variables to aesthetics like x, y, color
+
+1. Correct answer: C) geom_point()
+
+1. Correct answer: B) Apply a clean, minimal plot style
+
+1. Correct answer: B) ggplot2
+
 
 # {background-image=https://images.unsplash.com/photo-1547414912-6fe761a1d88a?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D background-size=cover}
 

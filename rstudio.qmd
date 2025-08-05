@@ -12,7 +12,7 @@ format:
 controls: true
 slide-number: true
 scrollable: true
-logo: images/logo.png
+logo: images/logo-idsj.png
 incremental: true
 # theme: simple
 # bibliography: references.bib

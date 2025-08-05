@@ -4,7 +4,7 @@ project:
     browser: true
  
 website:
-  title: "R for Beginners"
+  #title: "R for Beginners"
   #favicon: images/icon.png
   # twitter-card: 
   #   creator: "@sara_institute"
@@ -13,13 +13,19 @@ website:
   #   image: social-default.png
   # site-url: https://sara-course-r4b.netlify.app/
   
-
-  # navbar:
-  #   logo: images/logo-sara.png
+  page-footer:
+    center: 
+      - icon: github
+        text: "Downlaod Codes of This Page from GitHub"
+        href: https://github.com/sara-institute/slides-r-idsj
+      
+  #navbar:
+     #logo: images/logo-idsj.png
     
-    # right:
-    #   - icon: github
-    #     href: https://github.com/sara-institute
+     # right:
+     #   - icon: github
+     #     text: "GitHub codes"
+     #     href: https://github.com/sara-institute/slides-r-idsj
     #   - text: "{{< iconify fa6-brands bluesky >}}"
     #     href: https://bsky.app/profile/sarainstitute.bsky.social
     #   - icon: linkedin
@@ -30,7 +36,7 @@ website:
 format:
   html:
     theme: cosmo
-  
+ 
     
     
     
