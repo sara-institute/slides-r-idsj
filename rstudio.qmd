@@ -401,32 +401,6 @@ example_df
 ```
 :::
 
-## Export data as a `csv` file
-
-::: panel-tabset
-### Code
-
-```{r}
-#| label: export-csv
-#| eval: false
-
-library(readr)
-
-# create a folder in wd & name it "data"
-write_csv(example_df, "data/example_df.csv") 
-```
-
-### Output
-
-```{r}
-#| label: export-csv
-#| output: asis
-#| echo: false 
-```
-
-To see the created file, check the "data" folder in your working directory.
-:::
-
 ## List of all objects
 
 ::: panel-tabset
@@ -545,6 +519,33 @@ library(tidyverse)
 ## To Remove Packages {.center}
 
 ![](images/remove-pkg.png){fig-align="center"}
+
+## Export data as a `csv` file
+
+::: panel-tabset
+### Code
+
+```{r}
+#| label: export-csv
+#| eval: false
+
+library(readr)
+
+# create a folder in wd & name it "data"
+write_csv(example_df, "data/example_df.csv") 
+```
+
+### Output
+
+```{r}
+#| label: export-csv
+#| output: asis
+#| echo: false 
+```
+
+To see the created file, check the "data" folder in your working directory.
+:::
+
 
 # {.centering}
 

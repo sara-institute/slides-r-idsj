@@ -589,36 +589,17 @@ DR. AJAY KUMAR KOLI, PHD
 </div>
 </div>
 </section>
-<section id="export-data-as-a-csv-file" class="slide level2">
-<h2>Export data as a <code>csv</code> file</h2>
+<section id="list-of-all-objects" class="slide level2">
+<h2>List of all objects</h2>
 <div class="panel-tabset">
 <ul id="tabset-7" class="panel-tabset-tabby"><li><a data-tabby-default="" href="#tabset-7-1">Code</a></li><li><a href="#tabset-7-2">Output</a></li></ul>
 <div class="tab-content">
 <div id="tabset-7-1">
 <div class="cell">
-<div class="sourceCode cell-code" id="cb9"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb9-1"><a></a><span class="fu">library</span>(readr)</span>
-<span id="cb9-2"><a></a></span>
-<span id="cb9-3"><a></a><span class="co"># create a folder in wd &amp; name it "data"</span></span>
-<span id="cb9-4"><a></a><span class="fu">write_csv</span>(example_df, <span class="st">"data/example_df.csv"</span>) </span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb9"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb9-1"><a></a><span class="fu">objects</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </div>
 <div id="tabset-7-2">
-<p>To see the created file, check the “data” folder in your working directory.</p>
-</div>
-</div>
-</div>
-</section>
-<section id="list-of-all-objects" class="slide level2">
-<h2>List of all objects</h2>
-<div class="panel-tabset">
-<ul id="tabset-8" class="panel-tabset-tabby"><li><a data-tabby-default="" href="#tabset-8-1">Code</a></li><li><a href="#tabset-8-2">Output</a></li></ul>
-<div class="tab-content">
-<div id="tabset-8-1">
-<div class="cell">
-<div class="sourceCode cell-code" id="cb10"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb10-1"><a></a><span class="fu">objects</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</div>
-</div>
-<div id="tabset-8-2">
 <p>[1] “age” “example_df” “income” “name” “place”<br>
 [6] “weight_kg”</p>
 </div>
@@ -672,14 +653,14 @@ DR. AJAY KUMAR KOLI, PHD
 <h2>Function to Install Packages</h2>
 <p><br></p>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb11"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb11-1"><a></a><span class="fu">install.packages</span>(<span class="st">"tidyverse"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb10"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb10-1"><a></a><span class="fu">install.packages</span>(<span class="st">"tidyverse"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section>
 <section id="function-to-call-package" class="slide level2">
 <h2>Function to Call Package</h2>
 <p><br></p>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb12"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb12-1"><a></a><span class="fu">library</span>(tidyverse)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb11"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb11-1"><a></a><span class="fu">library</span>(tidyverse)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
 </section>
 <section id="using-packages" class="slide level2">
@@ -715,7 +696,26 @@ DR. AJAY KUMAR KOLI, PHD
 <section id="to-remove-packages" class="slide level2 center">
 <h2>To Remove Packages</h2>
 
-<img data-src="images/remove-pkg.png" class="quarto-figure quarto-figure-center r-stretch"></section></section>
+<img data-src="images/remove-pkg.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="export-data-as-a-csv-file" class="slide level2">
+<h2>Export data as a <code>csv</code> file</h2>
+<div class="panel-tabset">
+<ul id="tabset-8" class="panel-tabset-tabby"><li><a data-tabby-default="" href="#tabset-8-1">Code</a></li><li><a href="#tabset-8-2">Output</a></li></ul>
+<div class="tab-content">
+<div id="tabset-8-1">
+<div class="cell">
+<div class="sourceCode cell-code" id="cb12"><pre class="sourceCode numberSource r number-lines code-with-copy"><code class="sourceCode r"><span id="cb12-1"><a></a><span class="fu">library</span>(readr)</span>
+<span id="cb12-2"><a></a></span>
+<span id="cb12-3"><a></a><span class="co"># create a folder in wd &amp; name it "data"</span></span>
+<span id="cb12-4"><a></a><span class="fu">write_csv</span>(example_df, <span class="st">"data/example_df.csv"</span>) </span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+</div>
+<div id="tabset-8-2">
+<p>To see the created file, check the “data” folder in your working directory.</p>
+</div>
+</div>
+</div>
+</section></section>
 <section>
 <section id="section-3" class="title-slide slide level1 centering center">
 <h1></h1>

@@ -259,13 +259,6 @@
     "text": "How to create a data object?\n\nCodeOutput\n\n\n\nexample_df &lt;- data.frame(name, income, age, place, weight_kg)\n\nexample_df\n\n\n\n\n\n     name income age place weight_kg\n1    Bhim  23000  23    MH        50\n2    Rama  25000  25    RJ        52\n3    Sara  16000  16    DL        61\n4   Phule   4000  40    HR        40\n5 Savitri  34000  34    HR        70"
   },
   {
-    "objectID": "rstudio.html#export-data-as-a-csv-file",
-    "href": "rstudio.html#export-data-as-a-csv-file",
-    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
-    "section": "Export data as a csv file",
-    "text": "Export data as a csv file\n\nCodeOutput\n\n\n\nlibrary(readr)\n\n# create a folder in wd & name it \"data\"\nwrite_csv(example_df, \"data/example_df.csv\") \n\n\n\nTo see the created file, check the “data” folder in your working directory."
-  },
-  {
     "objectID": "rstudio.html#list-of-all-objects",
     "href": "rstudio.html#list-of-all-objects",
     "title": "CREATING PROJECTSUSING RSTUDIO IDE",
@@ -369,6 +362,13 @@
     "title": "CREATING PROJECTSUSING RSTUDIO IDE",
     "section": "To Remove Packages",
     "text": "To Remove Packages"
+  },
+  {
+    "objectID": "rstudio.html#export-data-as-a-csv-file",
+    "href": "rstudio.html#export-data-as-a-csv-file",
+    "title": "CREATING PROJECTSUSING RSTUDIO IDE",
+    "section": "Export data as a csv file",
+    "text": "Export data as a csv file\n\nCodeOutput\n\n\n\nlibrary(readr)\n\n# create a folder in wd & name it \"data\"\nwrite_csv(example_df, \"data/example_df.csv\") \n\n\n\nTo see the created file, check the “data” folder in your working directory."
   },
   {
     "objectID": "rstudio.html#your-turn",
