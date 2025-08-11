@@ -15,7 +15,11 @@ Hello 👋
 
 I’m Ajay, a data science educator at the [SARA Institute of Data Science](https://sara-edu.netlify.app/). I created this study material for my invited **two-day residential workshop on “R Programming”** for faculty and researchers at the **Institute of Development Studies, Jaipur**.
 
-If you find this material helpful, please consider supporting my work by **starring the repository on GitHub**. Your support motivates me to create and share more resources for the community.
+![](images/flyer.jpg)
+
+![](images/feedback.jpg)
+
+
 
 The background image used for each title slide is taken from [Unsplash by Aashish Pareek](https://unsplash.com/photos/brown-camel-on-brown-field-during-daytime-YnhxyA1RYjk) and background image for the last thank you slide is taken from [Unsplash by Pawel](https://unsplash.com/photos/pink-petaled-flower-MPaHCR6D7Po).
 
